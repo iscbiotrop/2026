@@ -9,7 +9,8 @@ listing:
 
 ::: grid
 ::: {#sponsors_banner .g-col-12 .title}
-# Speakers
+# Speakers & Trainers
+Additional speakers and trainers will be announced as confirmations are finalized.
 :::
 
 ::: {#speakers .g-col-12}

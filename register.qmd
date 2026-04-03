@@ -10,11 +10,13 @@ pagetitle: "Registration"
 ::: {.g-col-6 .text_block}
 ### Registration
 
-Please register for the conference at: [satrdays.org](https://satrdays.org)
+Registration for ISC Biotrop 2026 will be open soon. Please stay tuned for further updates on this page.
+
+For early inquiries or to express your interest, feel free to contact us at: [oia.biology@ugm.ac.id](mailto:oia.biology@ugm.ac.id)
 :::
 
 ::: {.g-col-6 .img_margin}
-![](/img/background2.jpg){.img_block width="100%"}
+![](/img/field-sampling.jpg){.img_block width="100%"}
 :::
 <div></div>
 :::

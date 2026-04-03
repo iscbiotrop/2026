@@ -10,11 +10,11 @@ pagetitle: "Contact us"
 ::: {.g-col-6 .text_block}
 ### Contact Us    
 
-Kindly email us at satrdayscityyear@satrdays.org
+Kindly email us at [oia.biology@ugm.ac.id](mailto:oia.biology@ugm.ac.id)
 
 :::
 
 ::: g-col-6
-![](/img/user-conf.png){.img_block width="100%"}
+![](/img/field-sampling2.jpg){.img_block width="100%"}
 :::
 :::

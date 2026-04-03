@@ -1,22 +1,18 @@
 ---
-pagetitle: "About satRday MyCity"
+pagetitle: "About International Summer Course on Tropical Biology and Sustainable Development"
 ---
 
 ::: grid
 ::: {#about_banner .g-col-12 .title}
-# About satRday Conferences
+# About ISC Biotrop 2026
 :::
 
 ::: {.g-col-6 .text_block}
-### What are satRdays?
+The International Summer Course (ISC) Biotrop 2026 is an annual program organized by the Faculty of Biology, Universitas Gadjah Mada, welcoming students from around the world to explore Tropical Biology and sustainable development practices in Indonesia and the ASEAN region.
 
-satRdays are free/cheap accessible R conferences being organised by the community for the community. They happen all over the globe, and are organised by local community leaders to help and grow the local community.
+This year’s theme, "**From Rainforest to Repository: Data-Powered Insights into Tropical Biodiversity**," highlights the growing role of data in understanding and protecting biodiversity. This 11-day program combines **four days of online lectures** with **seven days of intensive onsite activities**, providing participants with an end-to-end learning experience—from field sampling in tropical ecosystems to data analysis and interpretation.
 
-There is a big emphasis on making these event accessible - by not requiring time off work, by not costing more than a days wages, by being supportive of new community members or leaders.
-
-### satRday MyCity
-
-satRday MyCity will be taking place at MyCity, MyCountry on the 21st September, 2023
+Participants will gain hands-on experience in biodiversity through the lense of **DNA sequencing** and **Geographical Information System (GIS)**, while also learning how to translate scientific data into meaningful insights for conservation and policy. The course is designed for students and early-career researchers interested in tropical ecosystems, genomics, and data-driven approaches to biodiversity assessment, bioprospecting, and conservation.
 :::
 
 ::: {.g-col-6 .img_margin}

@@ -1,12 +1,12 @@
 /*-- scss:defaults --*/
 
 $body-bg:    #fff;
-$primary:    #0a3263; // the darker the better
+$primary:    #024800; // the darker the better
 $countdown-bg: rgba($primary, .15);
 $countdown-color: #5d5d76;
-$banner-img: './img/banner-img.jpg';
+$banner-img: './img/banner-img.png';
 $banner-text-position: center;
-$title-bg-img: './img/background.jpg';
+$title-bg-img: './img/background.png';
 $title-text-h-position: left;
 $title-text-v-position: center;
 
@@ -236,44 +236,6 @@ footer.footer .nav-footer, #quarto-header nav {
 * {
   box-sizing: border-box;
 }
-
-.schedule_container {
-  width: 100%;
-  background: rgba($primary, .05);
-  margin-left: 2%;
-}
-
-/* Create two equal columns that floats next to each other */
-.schedule_column_time {
-  float: left;
-  width: 30%;
-  padding: 20px;
-  align-content: center;
-  margin: 1px;
-  background: rgba($primary, .3);
-  color: #494F57;
-  height: 80px; /* Should be removed. Only for demonstration */
-}
-
-.schedule_column_talk {
-  float: left;
-  width: 69%;
-  padding: 10px;
-  align-content: center;
-  margin: 1px;
-  background: rgba($primary, .15);
-  color: #494F57;
-  height: 80px; /* Should be removed. Only for demonstration */
-}
-
-
-/* Clear floats after the columns */
-.schedule_row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
 
 #listing-countdown {
   background: $countdown-bg; 

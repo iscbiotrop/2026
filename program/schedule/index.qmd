@@ -1,30 +1,36 @@
 ---
 pagetitle: "Schedule"
 
-listing:
-  - id: schedule
-    template: schedule.ejs
-    contents: schedule.yml
 ---
-
 ::: grid
 ::: {#sponsors_banner .g-col-12 .title}
-# Schedule
+# Course Schedule
 :::
 
-::: {.g-col-12 style="margin-left: 2%;"}
-Please note that all session times are listed below in UTC.
-:::
+::: {.g-col-12 .full_text_block}
+> **Note:** The schedule below is tentative and subject to change based on field conditions, instructor availability, and logistical considerations.
 
-::: {#schedule .g-col-6}
-:::
+### Pre-Course (Online) | 6 - 9 July 2026
 
-::: g-col-6
-![](/img/conf-image.jpg){.img_block width="99%"}
-:::
+| Day | Session | Topic | Activities |
+|---|----|-------|-----------|
+| Day 1 | Online | Tropical Biodiversity in the Data Age | Lectures on biodiversity challenges, data types, and course overview |
+| Day 2 | Online | Study Design, Sampling, & Metadata | Sampling design, metadata standards, ethics; mini exercise |
+| Day 3 | Online | Genomics for Biodiversity Assesment | Barcoding, metagenomics, interpretation of diversity data |
+| Day 4 | Online | From Data to Impact | Bioprospecting, GIS introduction, policy case studies |
+: {.striped .hover}
 
+### Onsite Course | 13 - 19 July 2026
 
-<div>
+| Day | Session | Topic | Activities |
+|---|----|-------|-----------|
+| Day 5 | Lab      | Welcoming Ceremony & Field Sampling Preparation | Opening session, course briefing, introduction to field protocols, sampling design, and metadata standards |
+| Day 6 | Field    | Field Sampling Day 1 (Terrestrial Ecosystems) | Terrestrial sampling (soil, plants, insects), environmental measurements, GIS data acquisition using drones |
+| Day 7 | Field    | Field Sampling Day 2 (Coastal/Intertidal) | Intertidal sampling, water sampling, ecological observations, metadata recording |
+| Day 8 | Lab      | From Sample to DNA | DNA extraction, quality control (QC), Library Preparation |
+| Day 9 | Computer | Bioinformatics for Biodiversity | Sequence data processing, taxonomic profiling, diversity analysis |
+| Day 10 | Computer | From Genomes to Landscapes | Integrating biodiversity data with GIS and spatial mapping |
+| Day 11 | Summit  | From Data to Decisions | Group presentations, translating results into policy recommendations, discussion & closing |
+: {.striped .hover}
 
-</div>
 :::

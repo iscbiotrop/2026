@@ -1,9 +1,13 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: _site
+  preview:
+    port: 4200
+    browser: false
 
 website:
-  title: "satRday MyCity 2026"
+  title: "ISC Biotrop 2026"
+  #subtitle: "From Ecosystems to Repositories: Data-Driven Insights into Tropical Biodiversity"
   sidebar: false
   navbar:
     background: light
@@ -11,45 +15,37 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: index2.qmd
-        text: Home 2
       - text: About
         menu:
-          - text: satRday conference
+          - text: ISC Biotrop 2026
             href: about/about.qmd
           - text: Organizing committee
             href: about/organizers.qmd
           - text: Sponsors
             href: about/sponsors/
-      - text: Program
-        menu: 
-          - text: Schedule
-            href: program/schedule/
-          - text: Speakers
-            href: program/speakers/
+      - text: Schedule
+        href: program/schedule/
+      - text: Speakers
+        href: program/speakers/
       - text: Register
         href: register.qmd
-      - text: Participation
-        menu: 
-          - text: Call for submissions
-            href: participation/call.qmd
-          - text: Code of conduct
-            href: participation/coc.qmd
-          - text: Key dates
-            href: participation/keydates/
+      #- text: Participation
+      #  menu: 
+          #- text: Code of conduct
+          #  href: participation/coc.qmd
+          #- text: Key dates
+          #  href: participation/keydates/
       - text: Contact
         href: contact.qmd
   page-footer: 
-    left: "Proudly supported by R Consortium"
+    left: "Supported by UGM Equity Grant 2026"
     right: 
       - icon: globe
-        href: https://satrdays.org
+        href: https://iscbiotrop.github.io/2026
       - icon: github
-        href: https://github.com/satrdays
-      - icon: twitter 
-        href: https://twitter.com/satrdays
+        href: https://github.com/iscbiotrop/2026
       - icon: envelope
-        href: mailto:city@satrdays.org
+        href: mailto:oia.biology@ugm.ac.id
 
 format:
   html:

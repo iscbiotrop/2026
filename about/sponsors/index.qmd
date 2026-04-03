@@ -1,5 +1,5 @@
 ---
-pagetitle: "Sponsorship"
+pagetitle: "Sponsors and Partnership"
 
 listing:
   - id: sponsors
@@ -9,7 +9,7 @@ listing:
 
 ::: grid
 ::: {#sponsors_banner .g-col-12 .title}
-# Sponsorship
+# Sponsors and Partnership
 :::
 
 ::: {#sponsors .g-col-12}
@@ -18,15 +18,11 @@ listing:
 ::: {#sponsorship .g-col-12 .full_text_block}
 ## Sponsorship Details
 
-satRday is committed to being an affordable and open conference for all interested R users. To provide highly discounted tickets, we plan to raise \$10,000 with sponsors this year.
+ISC Biotrop 2026 is supported by the Universitas Gadjah Mada (UGM) Equity Grant, which helps facilitate the mobility of invited speakers and strengthens international collaboration.
 
-Sponsorship price is \$1,000 and includes:
+To further enhance the quality and accessibility of the program, we welcome additional sponsorship from institutions and organizations that share our commitment to advancing tropical biodiversity research, education, and conservation.
 
--   Three (3) individual registrations (a \$50 value)
--   Your organization's logo displayed on the conference website and at the beginning of each talk
--   An optional 5-minute slot at the conference where you may talk about how you use R in your organization
-
-Sponsors will benefit from direct access to one of the main organizers to address any questions or extra requests.
+For sponsorship inquiries and partnership opportunities, please contact: [oia.biology@ugm.ac.id](mailto:oia.biology@ugm.ac.id)
 :::
 
 <div>

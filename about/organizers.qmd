@@ -10,18 +10,15 @@ pagetitle: "Committee members"
 ::: {.g-col-6 .text_block}
 ### Organizing Committee
 
- - John Doe 1 _(ABC University)_
- - John Doe 2 _(XYZ University)_
-
-
-### Program Committee
-
- - John Doe 1 _(ABC University)_
- - John Doe 2 _(XYZ University)_
+ - Matin Nuhamunada _(Dept. of Tropical Biology, UGM)_
+ - Yan Restu Freski _(Dept. of Geological Engineering, UGM)_
+ - Mukhlish Jamal Musa Holle _(Dept. of Tropical Biology, UGM)_
+ - Thoriq Teja Samudra _(Dept. of Tropical Biology, UGM)_
+ - Nur Indah Septriani _(Dept. of Tropical Biology, UGM)_
 
 :::
 
 ::: g-col-6
-![](/img/user-conf.png){.img_block width="100%"}
+![](/img/conf-image.jpeg){.img_block width="100%"}
 :::
 :::
