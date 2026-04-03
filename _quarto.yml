@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "satRday MyCity 2026"
+  sidebar: false
+  navbar:
+    background: light
+    pinned: false
+    right:
+      - href: index.qmd
+        text: Home
+      - href: index2.qmd
+        text: Home 2
+      - text: About
+        menu:
+          - text: satRday conference
+            href: about/about.qmd
+          - text: Organizing committee
+            href: about/organizers.qmd
+          - text: Sponsors
+            href: about/sponsors/
+      - text: Program
+        menu: 
+          - text: Schedule
+            href: program/schedule/
+          - text: Speakers
+            href: program/speakers/
+      - text: Register
+        href: register.qmd
+      - text: Participation
+        menu: 
+          - text: Call for submissions
+            href: participation/call.qmd
+          - text: Code of conduct
+            href: participation/coc.qmd
+          - text: Key dates
+            href: participation/keydates/
+      - text: Contact
+        href: contact.qmd
+  page-footer: 
+    left: "Proudly supported by R Consortium"
+    right: 
+      - icon: globe
+        href: https://satrdays.org
+      - icon: github
+        href: https://github.com/satrdays
+      - icon: twitter 
+        href: https://twitter.com/satrdays
+      - icon: envelope
+        href: mailto:city@satrdays.org
+
+format:
+  html:
+    theme: 
+      light: [cosmo, css/styles.scss]
+      #dark: darkly
+    page-layout: custom
+    toc: false
+
+editor: visual
+
