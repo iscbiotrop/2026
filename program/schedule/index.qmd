@@ -4,33 +4,50 @@ pagetitle: "Schedule"
 ---
 ::: grid
 ::: {#sponsors_banner .g-col-12 .title}
-# Course Schedule
+# Course Program
+This course is equivalent to 3 Academic Credits (135 Hours)
 :::
 
 ::: {.g-col-12 .full_text_block}
 > **Note:** The schedule below is tentative and subject to change based on field conditions, instructor availability, and logistical considerations.
 
+### Course Orientation (Online) | 1 July 2026
+
+The orientation will explain the pre-course assignments and reading materials, how to access learning platforms, using GitHub and GitHub Codespaces for computer assignments, schedules, and communication tools.
+
+### Pre-Course assignments
+
+Prior to the start of the course, participants are assigned several tasks:
+
+- Reading materials and basic coding skill preparation
+- 1-2 minutes introduction video about you and why you are interested to join this course
+- An essay on the current challenges faced by Tropical Biodiversity and opportunities in the age of data and AI
+
 ### Pre-Course (Online) | 6 - 9 July 2026
 
-| Day | Session | Topic | Activities |
-|---|----|-------|-----------|
-| Day 1 | Online | Tropical Biodiversity in the Data Age | Lectures on biodiversity challenges, data types, and course overview |
-| Day 2 | Online | Study Design, Sampling, & Metadata | Sampling design, metadata standards, ethics; mini exercise |
-| Day 3 | Online | Genomics for Biodiversity Assesment | Barcoding, metagenomics, interpretation of diversity data |
-| Day 4 | Online | From Data to Impact | Bioprospecting, GIS introduction, policy case studies |
+| Day | Date | Session | Topic | Activities |
+|---|---|----|-------|-----------|
+| Day 1 | Mon, 6/7/26 | Online | Tropical Biodiversity in the Data Age | Lectures on biodiversity challenges, data types, and course overview |
+| Day 2 | Tue, 7/7/26 | Online | Study Design, Sampling, & Metadata | Sampling design, metadata standards, ethics and mini exercise |
+| Day 3 | Wed, 8/7/26 | Online | Genomics for Biodiversity Assesment | Bioinformatics practicals on metabarcoding, metagenomics, and biodiversity analysis |
+| Day 4 | Thu, 9/7/26 | Online | From Data to Impact | Bioprospecting, GIS data analysis, policy case studies |
 : {.striped .hover}
 
 ### Onsite Course | 13 - 19 July 2026
 
-| Day | Session | Topic | Activities |
-|---|----|-------|-----------|
-| Day 5 | Lab      | Welcoming Ceremony & Field Sampling Preparation | Opening session, course briefing, introduction to field protocols, sampling design, and metadata standards |
-| Day 6 | Field    | Field Sampling Day 1 (Terrestrial Ecosystems) | Terrestrial sampling (soil, plants, insects), environmental measurements, GIS data acquisition using drones |
-| Day 7 | Field    | Field Sampling Day 2 (Coastal/Intertidal) | Intertidal sampling, water sampling, ecological observations, metadata recording |
-| Day 8 | Lab      | From Sample to DNA | DNA extraction, quality control (QC), Library Preparation |
-| Day 9 | Computer | Bioinformatics for Biodiversity | Sequence data processing, taxonomic profiling, diversity analysis |
-| Day 10 | Computer | From Genomes to Landscapes | Integrating biodiversity data with GIS and spatial mapping |
-| Day 11 | Summit  | From Data to Decisions | Group presentations, translating results into policy recommendations, discussion & closing |
+| Day | Date | Session | Topic | Activities |
+|---|---|----|-------|-----------|
+| Optional Event | Sun, 12/7/26 | Welcoming Dinner | Greetings and getting to know each other | |
+| Day 5 | Mon, 13/7/26 | Lab | Welcoming Ceremony & Field Sampling Preparation | Opening session, course briefing, introduction to field and safety protocols |
+| Day 6 | Tue, 14/7/26 | Field | Field Sampling Day 1 (Terrestrial Ecosystems) | Terrestrial sampling (soil, plants, insects), environmental measurements, GIS data acquisition using drones |
+| Day 7 | Wed, 15/7/26 | Field | Field Sampling Day 2 (Coastal/Intertidal) | Intertidal sampling, water sampling, ecological observations, metadata recording |
+| Day 8 | Thu, 16/7/26 | Lab | From Sample to DNA | DNA extraction, quality control (QC), Library Preparation for Next-Generation Sequencing |
+| Day 9 | Fri, 17/7/26 | Computer | From Genomes to Landscapes | Sequence data processing, integrating biodiversity data with GIS and spatial mapping |
+| Day 10 | Sat, 18/7/26 | Biodiversity Summit | From Data to Decisions | Group presentations, translating results into policy recommendations, discussion & closing |
 : {.striped .hover}
+
+### Post Course assignments
+
+Participant will be assigned to create a project report or analysis portofolio on what they learn during the course using GitHub pages.
 
 :::

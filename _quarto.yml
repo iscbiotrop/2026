@@ -23,7 +23,7 @@ website:
             href: about/organizers.qmd
           - text: Sponsors
             href: about/sponsors/
-      - text: Schedule
+      - text: Program
         href: program/schedule/
       - text: Speakers
         href: program/speakers/
@@ -38,7 +38,7 @@ website:
       - text: Contact
         href: contact.qmd
   page-footer: 
-    left: "Supported by UGM Equity Grant 2026"
+    left: "Supported by Universitas Gadjah Mada Equity Grant 2026"
     right: 
       - icon: globe
         href: https://iscbiotrop.github.io/2026

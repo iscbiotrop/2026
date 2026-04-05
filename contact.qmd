@@ -10,8 +10,14 @@ pagetitle: "Contact us"
 ::: {.g-col-6 .text_block}
 ### Contact Us    
 
-Kindly email us at [oia.biology@ugm.ac.id](mailto:oia.biology@ugm.ac.id)
+For inquiries regarding our programs, collaborations, or any additional information, please feel free to reach out to us via email at [oia.biology@ugm.ac.id](mailto:oia.biology@ugm.ac.id). Our team at the Office of International Affairs, Faculty of Biology, is happy to assist prospective participants, partners, and visitors with any questions you may have.
 
+<small>
+**[UNIVERSITAS GADJAH MADA](https://ugm.ac.id/)**  
+**[Faculty of Biology](https://biologi.ugm.ac.id/en/)**  
+Jalan Teknika Selatan, Sekip Utara  
+Yogyakarta 55281, Indonesia  
+</small>
 :::
 
 ::: g-col-6

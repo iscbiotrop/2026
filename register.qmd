@@ -5,18 +5,71 @@ pagetitle: "Registration"
 ::: grid
 ::: {#about_banner .g-col-12 .title}
 # Registration
+Registration for ISC Biotrop 2026 will be open soon. Please stay tuned for further updates on this page.
 :::
 
 ::: {.g-col-6 .text_block}
-### Registration
-
-Registration for ISC Biotrop 2026 will be open soon. Please stay tuned for further updates on this page.
-
 For early inquiries or to express your interest, feel free to contact us at: [oia.biology@ugm.ac.id](mailto:oia.biology@ugm.ac.id)
+
+### Course Packages
+
+| Facilities | International Students | Local Students | Online Participant |
+|------------|---|---|---|
+| Lectures from Experts | ☑️ | ☑️ | ☑️ |
+| Hands on Bioinformatics Analysis | ☑️ | ☑️ | ☑️ |
+| Hands on GIS Analysis | ☑️ | ☑️ | ☑️ |
+| Field Trips | ☑️ | ☑️ | ☐ |
+| Next-Generation Sequencing sample preparation | ☑️ | ☑️ | ☐ |
+| Accomodation and Transport during Trips | ☑️ | ☑️ | ☐ |
+| Summer Course Kit | ☑️ | ☑️ | ☐ |
+| Airport train tickets | ☑️ | ☐ | ☐ |
+: {.striped .hover}
+
+> <small>**What are not covered:**</small>  
+>
+> - <small>Health insurance. All participants are encouraged to apply for health insurance individually.</small>
+> - <small>Flight or transportation of arrival and departure from Yogyakarta</small>
+> - <small>SIM Card and Internet data package, Laundry service, Dinners outside of class and field trips, and Personal-related expenses.</small>
+
 :::
 
 ::: {.g-col-6 .img_margin}
 ![](/img/field-sampling.jpg){.img_block width="100%"}
 :::
 <div></div>
+:::
+
+
+::: {.g-col-12 .full_text_block}
+### Pricing
+
+| <small>Category</small> | <small>Course Fees</small> | <small>VISA C9*</small> | <small>Total Price (USD)</small> | <small>Total Price (IDR)</small> |
+|-----|-----|-----|-----|-----|
+| <small>International Students</small> | <small>250 USD | <small>IDR 2.000.000,-</small> | <small>~368 USD</small> | <small>IDR 6.300.000,-</small> |
+| <small>ASEAN Students</small> | <small>125 USD | <small>IDR 2.000.000,-</small> | <small>~243 USD</small> | <small>IDR 4.129.000,-</small> |
+| <small>Indonesian Students</small> | <small>IDR 2.000.000,-</small> | | | <small>IDR 2.000.000,-</small> |
+| <small>Online Session Only</small> | <small>50 USD</small> | | <small>50 USD</small> | <small>IDR 850.000,-</small> |
+: {.striped .hover}
+
+> <small>*VISA for Cultural and Social Visit (index C9) is mandatory for all international participants. Visa application will be processed by UGM.</small>
+
+### Registration Overview
+
+```{mermaid}
+graph LR
+    A["Register via OIA UGM Admission Site"] --> B["Fill in Online Forms"]
+    B --> C["Receive Letter of Offer & Billing Details"]
+    C --> D["Payment"]
+    D --> E["Letter of Acceptance"]
+```
+
+1. All participants (International and local) must first register via Office of International Affairs (OIA) Admission site to get Letter of Offer (includes billing details) and Letter of Acceptance issued by the OIA of Universitas Gadjah Mada.
+2. Required documents for registration are:
+    - Color scanned Passport or ID Card (.JPG max 2MB)
+    - Pass photo (.pdf max 2MB)
+3. Participants are required to fill in Online Form for important and detailed information. The form consists of:
+    - personal information
+    - Health records and Dietary restriction form
+    - Additional facilities
+    - Proof of OIA Admission Registration for International participant (Screen shot of Enrollment History .pdf/.jpeg/.png max 2MB).
 :::
