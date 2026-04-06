@@ -42,7 +42,7 @@ Participants will gain hands-on experience in biodiversity through the lense of 
 ::: {.g-col-6 .img_margin}
 <iframe
   width="100%" height="400"
-  src="https://www.youtube.com/embed/PomKP3F6WpU?si=AfoLA_Oui_z24cde?autoplay=1&mute=1"
+  src="https://www.youtube.com/embed/tXC557UOYBY?si=EBvna14W5JVExh6H?autoplay=1"
   title="YouTube video player"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
