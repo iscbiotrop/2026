@@ -34,7 +34,7 @@ listing:
 
 The International Summer Course (ISC) Biotrop 2026 is an annual program organized by the Faculty of Biology, Universitas Gadjah Mada, welcoming students from around the world to explore Tropical Biology and sustainable development practices in Indonesia and the ASEAN region.
 
-This year’s theme, "**From Rainforest to Repository: Data-Powered Insights into Tropical Biodiversity**," highlights the growing role of data in understanding and protecting biodiversity. This 10-day program combines **four days of online lectures** with **six days of intensive onsite activities**, providing participants with an end-to-end learning experience—from field sampling in tropical ecosystems to data analysis and interpretation.
+This year’s theme, "**From Ecosystems to Repositories: Data-Driven Insights into Tropical Biodiversity**", highlights the growing role of data in understanding and protecting biodiversity. This 10-day program combines **four days of online lectures** with **six days of intensive onsite activities**, providing participants with an end-to-end learning experience—from field sampling in tropical ecosystems to data analysis and interpretation.
 
 Participants will gain hands-on experience in biodiversity through the lense of **DNA sequencing** and **Geographical Information System (GIS)**, while also learning how to translate scientific data into meaningful insights for conservation and policy. The course is designed for students and early-career researchers interested in tropical ecosystems, genomics, and data-driven approaches to biodiversity assessment, bioprospecting, and conservation.
 :::
