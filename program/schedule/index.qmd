@@ -3,6 +3,7 @@ pagetitle: "Schedule"
 
 ---
 ::: grid
+
 ::: {#sponsors_banner .g-col-12 .title}
 # Course Program
 This course is equivalent to 3 Academic Credits (135 Hours)
@@ -49,5 +50,7 @@ Prior to the start of the course, participants are assigned several tasks:
 ### Post Course assignments
 
 Participant will be assigned to create a project report or analysis portofolio on what they learn during the course using GitHub pages.
+
+:::
 
 :::
