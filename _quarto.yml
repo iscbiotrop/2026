@@ -38,7 +38,12 @@ website:
       - text: Contact
         href: contact.qmd
   page-footer: 
-    left: "Supported by Universitas Gadjah Mada Equity Grant 2026"
+    left: |
+
+      ::: {.column width="100%"}
+      ![](/img/faculty_biology_ugm.png){fig-align="left" style="max-width: 50%; margin-right: 10px; max-height: 50px;"}
+      :::
+      Supported by Universitas Gadjah Mada Equity Grant 2026
     right: 
       - icon: globe
         href: https://iscbiotrop.github.io/2026
