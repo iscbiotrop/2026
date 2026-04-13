@@ -12,7 +12,43 @@ This course is equivalent to 3 Academic Credits (135 Hours)
 ::: {.g-col-12 .full_text_block}
 > **Note:** The schedule below is tentative and subject to change based on field conditions, instructor availability, and logistical considerations.
 
-### Course Orientation (Online) | 1 July 2026
+```{mermaid}
+gantt
+    title ISC Biotrop 2026 – Course Schedule by Sessions
+    dateFormat  YYYY-MM-DD
+    axisFormat  %d %b
+
+    section Orientation
+    Course Orientation (Online)        :2026-06-29, 1d
+
+    section Pre-Assignments
+    Intro Video Submission             :milestone, 2026-07-05, 1d
+    Essay on Biodiversity Challenges   :milestone, 2026-07-05, 1d
+
+    section Satellite Event I
+    (3D2N) "Ramban Rimba" - Tropical Rainforest Ecotour with Genau Indonesia   :2026-06-30, 3d
+
+    section Pre-Course (Online Hybrid | 6–9 July)
+    Biodiversity in Data Age   :2026-07-06, 1d
+    Study Design & Metadata    :2026-07-07, 1d
+    Genomics & Bioinformatics  :2026-07-08, 1d
+    GIS, Data, and Policy      :2026-07-09, 1d
+    
+    section Social (Optional) 
+    Welcoming Dinner (Optional)      :a8, 2026-07-12, 1d
+
+    section Onsite Course (13–18 July)
+    Opening & Field Prep       :2026-07-13, 1d
+    (2D1N) Field Sampling      :2026-07-14, 2d
+    DNA Extraction & Sequencing :2026-07-16, 1d
+    Data Analysis & GIS        :2026-07-17, 1d
+    Summit & Closing           :2026-07-18, 1d
+
+    section Satellite Event II
+    Sustainable Agriculture and Waste Management    :2026-07-21, 3d
+```
+
+### Course Orientation (Online) | 29 June 2026
 
 The orientation will explain the pre-course assignments and reading materials, how to access learning platforms, using GitHub and GitHub Codespaces for computer assignments, schedules, and communication tools.
 
