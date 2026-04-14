@@ -46,9 +46,7 @@ website:
       Supported by Universitas Gadjah Mada Equity Grant 2026
     right: 
       - icon: globe
-        href: https://iscbiotrop.github.io/2026
-      - icon: github
-        href: https://github.com/iscbiotrop/2026
+        href: https://iscbiotrop.org/
       - icon: envelope
         href: mailto:oia.biology@ugm.ac.id
 
