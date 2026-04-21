@@ -30,7 +30,7 @@ gantt
     Study Design & Metadata    :2026-07-07, 1d
     Genomics & Bioinformatics  :2026-07-08, 1d
     GIS, Data, and Policy      :2026-07-09, 1d
-
+    
     section Social (Optional) 
     Welcoming Dinner (Optional)      :a8, 2026-07-12, 1d
 
@@ -39,10 +39,7 @@ gantt
     (2D1N) Field Sampling      :2026-07-14, 2d
     DNA Extraction & Sequencing :2026-07-16, 1d
     Data Analysis & GIS        :2026-07-17, 1d
-    Biodiversity Summit & Closing           :2026-07-18, 1d
-
-    section Satellite Event
-    Ramban Rimba with Genau Foundation :2026-07-21, 3d
+    Summit & Closing           :2026-07-18, 1d
 ```
 
 ### Course Orientation (Online) | 29 June 2026

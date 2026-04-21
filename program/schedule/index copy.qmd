@@ -19,30 +19,31 @@ gantt
     axisFormat  %d %b
 
     section Orientation
-    Course Orientation (Online)        :2026-06-29, 1d
+    Arrival in Yogyakarta                             :2026-06-28, 1d
+    Welcoming & Course Orientation                    :2026-06-29, 1d
+    Indonesian Language and Culture Learning (INCULS) :2026-06-29, 4d
 
     section Pre-Assignments
     Intro Video Submission             :milestone, 2026-07-05, 1d
     Essay on Biodiversity Challenges   :milestone, 2026-07-05, 1d
 
-    section Pre-Course (Online Hybrid | 6–9 July)
-    Biodiversity in Data Age   :2026-07-06, 1d
-    Study Design & Metadata    :2026-07-07, 1d
-    Genomics & Bioinformatics  :2026-07-08, 1d
-    GIS, Data, and Policy      :2026-07-09, 1d
-
+    section Pre-Course (In Class Hybrid | 6–9 July)
+    Lecture and Classes   :2026-07-06, 4d
+    
     section Social (Optional) 
     Welcoming Dinner (Optional)      :a8, 2026-07-12, 1d
 
     section Onsite Course (13–18 July)
     Opening & Field Prep       :2026-07-13, 1d
     (2D1N) Field Sampling      :2026-07-14, 2d
-    DNA Extraction & Sequencing :2026-07-16, 1d
-    Data Analysis & GIS        :2026-07-17, 1d
-    Biodiversity Summit & Closing           :2026-07-18, 1d
+    Laboratory Sessions :2026-07-16, 2d
+
+    section Student Conference
+    Summit & ISC Closing           :2026-07-18, 1d
 
     section Satellite Event
     Ramban Rimba with Genau Foundation :2026-07-21, 3d
+    Program Wrap up and Closing :2026-07-24, 2d
 ```
 
 ### Course Orientation (Online) | 29 June 2026
