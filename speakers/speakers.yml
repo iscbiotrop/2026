@@ -12,20 +12,6 @@
       country: ph
       social: 
       - linkedin: https://www.linkedin.com/in/alona-linatoc-4799b071/
-    - name: Ashley Jones
-      affiliation: Australian National University (ANU)
-      href: https://researchportalplus.anu.edu.au/en/persons/ashley-jones/
-      thumbnail: https://researchportalplus.anu.edu.au/files-asset/214502506/20211113_011855_square.jpg?w=320&f=webp
-      country: au
-      social: 
-      - website: https://researchportalplus.anu.edu.au/en/persons/ashley-jones/
-    - name: Muhammad Abdul Latiff bin Abu Bakar
-      affiliation: Universiti Tun Hussein Onn Malaysia (UTHM)
-      href: https://community.uthm.edu.my/latiff
-      thumbnail: https://fast.uthm.edu.my/wp-content/themes/yootheme/cache/bb/PROF.-MADYA-Ts.-Dr.-MUHAMMAD-ABDUL-LATIFF-BIN-ABU-BAKAR-scaled-bbf0ef26.webp
-      country: my
-      social: 
-      - website: https://community.uthm.edu.my/latiff
     - name: Amelia Nugrahaningrum
       affiliation: Yayasan Genau Indonesia
       href: https://genau.id/
@@ -34,6 +20,13 @@
       social:
       - website: https://genau.id/
       - linkedin: https://id.linkedin.com/in/amelianugrahaningrum
+    - name: Ashley Jones
+      affiliation: Australian National University (ANU)
+      href: https://researchportalplus.anu.edu.au/en/persons/ashley-jones/
+      thumbnail: https://researchportalplus.anu.edu.au/files-asset/214502506/20211113_011855_square.jpg?w=320&f=webp
+      country: au
+      social: 
+      - website: https://researchportalplus.anu.edu.au/en/persons/ashley-jones/
     - name: Matin Nuhamunada
       affiliation: Biotechnology Lab UGM / Integrated Genome Factory
       href: https://www.matinnu.org/author/matin-nuhamunada/
@@ -43,6 +36,13 @@
       - website: https://www.matinnu.org/
       - github: https://github.com/matinnuhamunada
       - linkedin: https://www.linkedin.com/in/matin-nuhamunada-0256a368/
+    - name: Muhammad Abdul Latiff bin Abu Bakar
+      affiliation: Universiti Tun Hussein Onn Malaysia (UTHM)
+      href: https://community.uthm.edu.my/latiff
+      thumbnail: https://fast.uthm.edu.my/wp-content/themes/yootheme/cache/bb/PROF.-MADYA-Ts.-Dr.-MUHAMMAD-ABDUL-LATIFF-BIN-ABU-BAKAR-scaled-bbf0ef26.webp
+      country: my
+      social: 
+      - website: https://community.uthm.edu.my/latiff
     - name: Thomas Groen
       affiliation: University of Twente
       href: https://people.utwente.nl/t.a.groen
