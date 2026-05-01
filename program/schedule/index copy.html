@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Speakers – ISC Biotrop 2026</title>
+<title>Schedule – ISC Biotrop 2026</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -33,8 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
-<script src="../../site_libs/quarto-listing/list.min.js"></script>
-<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
@@ -72,65 +70,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
+<script src="../../site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="../../site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="../../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-speakers .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-name','listing-affiliation','listing-thumbnail','listing-social','listing-href',{ data: ['index'] },{ data: ['categories'] }],
-      
-      searchColumns: ["listing-name","listing-affiliation","listing-thumbnail","listing-social","listing-href"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-speakers'] = new List('listing-speakers', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -174,12 +117,23 @@ window.Quarto = {
   </li>  
     </ul>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="../../program/schedule/"> 
-<span class="menu-text">Program</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-program" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Program</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-program">    
+        <li>
+    <a class="dropdown-item" href="../../program/schedule/">
+ <span class="dropdown-text">Schedule</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../../program/satellite-events/">
+ <span class="dropdown-text">Satellite Events</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="../../program/speakers/"> 
+    <a class="nav-link" href="../../speakers/"> 
 <span class="menu-text">Speakers</span></a>
   </li>  
   <li class="nav-item">
@@ -208,172 +162,200 @@ window.Quarto = {
 
 <div class="grid">
 <div id="sponsors_banner" class="g-col-12 title">
-<section id="speakers-trainers" class="level1">
-<h1>Speakers &amp; Trainers</h1>
-<p>Additional speakers and trainers will be announced as confirmations are finalized.</p>
+<section id="course-program" class="level1">
+<h1>Course Program</h1>
+<p>This course is equivalent to 3 Academic Credits (135 Hours)</p>
 </section>
 </div>
-<div id="listing-speakers" class="g-col-12 quarto-listing quarto-listing-container-custom">
-<div class="sponsorsFooter">
-      <h1 id="sponsorTitle" data-default-title="<strong>Speakers</strong>"><strong>Speakers and Trainers</strong></h1>
-      <ul>
-        
-                            <li><a href="" target="_blank" class=""><img width="200" height="200" style="border-radius: 40%;" class="" src="https://biology.anu.edu.au/sites/prod.biology.sca-lws06.anu.edu.au/files/styles/portrait_250_250/public/Alex_Maier_2026.jpg.webp?h=2c4089a3&amp;itok=aanf6Ojk" alt="Prof. Alexander G. Maier picture"></a>
-                            
-                            <p><strong> Prof. Alexander G. Maier </strong> <br>
-                            Australian National University (ANU) <br>
-                            </p><ul>
-                            
-                            
-                              <li class="socialIcons">
-                               
-                      <a class="" href="https://biology.anu.edu.au/people/alexander-maier">
-                        <i class="bi bi-globe"></i> 
-                      </a>
-                  
-                  
-                  
-                 
-                             
-                             
-                             </li>
-                          
-                           </ul>
-                            <p></p>
-                            </li>
-        
-                            <li><a href="" target="_blank" class=""><img width="200" height="200" style="border-radius: 40%;" class="" src="https://media.licdn.com/dms/image/v2/D5603AQGSUdyez2Osbw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1679523964783?e=1777507200&amp;v=beta&amp;t=bZ_Wb20w4lLRPR014lrdDQRV-eh26lS1adMyUAIwL5M" alt="Assoc. Prof. Dr. Alona Cuevas Linatoc picture"></a>
-                            
-                            <p><strong> Assoc. Prof. Dr. Alona Cuevas Linatoc </strong> <br>
-                            University of the Philippines Los Baños (UPLB) <br>
-                            </p><ul>
-                            
-                            
-                              <li class="socialIcons">
-                              
-                  
-                  
-                  
-                      <a class="" href="https://www.linkedin.com/in/alona-linatoc-4799b071/">
-                        <i class="bi bi-linkedin"></i> 
-                      </a>
-                             
-                             
-                             
-                             </li>
-                          
-                           </ul>
-                            <p></p>
-                            </li>
-        
-                            <li><a href="" target="_blank" class=""><img width="200" height="200" style="border-radius: 40%;" class="" src="https://fast.uthm.edu.my/wp-content/themes/yootheme/cache/bb/PROF.-MADYA-Ts.-Dr.-MUHAMMAD-ABDUL-LATIFF-BIN-ABU-BAKAR-scaled-bbf0ef26.webp" alt="Prof. Madya Ts. Dr. Muhammad Abdul Latiff bin Abu Bakar picture"></a>
-                            
-                            <p><strong> Prof. Madya Ts. Dr. Muhammad Abdul Latiff bin Abu Bakar </strong> <br>
-                            Universiti Tun Hussein Onn Malaysia (UTHM) <br>
-                            </p><ul>
-                            
-                            
-                              <li class="socialIcons">
-                               
-                      <a class="" href="https://community.uthm.edu.my/latiff">
-                        <i class="bi bi-globe"></i> 
-                      </a>
-                  
-                  
-                  
-                 
-                             
-                             
-                             </li>
-                          
-                           </ul>
-                            <p></p>
-                            </li>
-        
-                            <li><a href="https://www.matinnu.org/" target="_blank" class=""><img width="200" height="200" style="border-radius: 40%;" class="" src="https://media.licdn.com/dms/image/v2/D4D03AQHn_e-TXcaw7Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718568387977?e=1776902400&amp;v=beta&amp;t=FnFtT7g_2HMqeA3nh6SAhB7c0zqYK7IA8aUU8URa9gA" alt="Matin Nuhamunada, M.Sc., Ph.D. picture"></a>
-                            
-                            <p><strong> Matin Nuhamunada, M.Sc., Ph.D. </strong> <br>
-                            Biotechnology Lab UGM / Integrated Genome Factory <br>
-                            </p><ul>
-                            
-                            
-                              <li class="socialIcons">
-                               
-                      <a class="" href="https://www.matinnu.org/">
-                        <i class="bi bi-globe"></i> 
-                      </a>
-                  
-                  
-                  
-                 
-                             
-                             
-                             </li>
-                          
-                              <li class="socialIcons">
-                              
-                  
-                      <a class="" href="https://github.com/matinnuhamunada">
-                        <i class="bi bi-github"></i> 
-                      </a>
-                  
-                  
-                 
-                             
-                             
-                             </li>
-                          
-                              <li class="socialIcons">
-                              
-                  
-                  
-                  
-                      <a class="" href="https://www.linkedin.com/in/matin-nuhamunada-0256a368/">
-                        <i class="bi bi-linkedin"></i> 
-                      </a>
-                             
-                             
-                             
-                             </li>
-                          
-                           </ul>
-                            <p></p>
-                            </li>
-        
-                            <li><a href="" target="_blank" class=""><img width="200" height="200" style="border-radius: 40%;" class="" src="https://media.licdn.com/dms/image/v2/D5603AQFHErOs_C4HJg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730881871556?e=1776902400&amp;v=beta&amp;t=EypFfhH2r0Q0UbMWc0MS67zhuxVi1NXiDg4VHov-590" alt="Dr. Ir. Yan Restu Freski, M.Eng. picture"></a>
-                            
-                            <p><strong> Dr. Ir. Yan Restu Freski, M.Eng. </strong> <br>
-                            Dept. of Geological Engineering, UGM <br>
-                            </p><ul>
-                            
-                            
-                              <li class="socialIcons">
-                              
-                  
-                  
-                  
-                      <a class="" href="https://www.linkedin.com/in/yan-restu-freski-601223b0/">
-                        <i class="bi bi-linkedin"></i> 
-                      </a>
-                             
-                             
-                             
-                             </li>
-                          
-                           </ul>
-                            <p></p>
-                            </li>
-        
-      </ul>
-    </div>
-</div>
+<div class="g-col-12 full_text_block">
+<blockquote class="blockquote">
+<p><strong>Note:</strong> The schedule below is tentative and subject to change based on field conditions, instructor availability, and logistical considerations.</p>
+</blockquote>
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
 <div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">gantt
+    title ISC Biotrop 2026 – Course Schedule by Sessions
+    dateFormat  YYYY-MM-DD
+    axisFormat  %d %b
 
+    section Orientation
+    Arrival in Yogyakarta                             :2026-06-28, 1d
+    Welcoming &amp; Course Orientation                    :2026-06-29, 1d
+    Indonesian Language and Culture Learning (INCULS) :2026-06-29, 4d
+
+    section Pre-Assignments
+    Intro Video Submission             :milestone, 2026-07-05, 1d
+    Essay on Biodiversity Challenges   :milestone, 2026-07-05, 1d
+
+    section Pre-Course (In Class Hybrid | 6–9 July)
+    Lecture and Classes   :2026-07-06, 4d
+    
+    section Social (Optional) 
+    Welcoming Dinner (Optional)      :a8, 2026-07-12, 1d
+
+    section Onsite Course (13–18 July)
+    Opening &amp; Field Prep       :2026-07-13, 1d
+    (2D1N) Field Sampling      :2026-07-14, 2d
+    Laboratory Sessions :2026-07-16, 2d
+
+    section Student Conference
+    Summit &amp; ISC Closing           :2026-07-18, 1d
+
+    section Satellite Event
+    Ramban Rimba with Genau Foundation :2026-07-21, 3d
+    Program Wrap up and Closing :2026-07-24, 2d
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+<section id="course-orientation-online-29-june-2026" class="level3">
+<h3 data-anchor-id="course-orientation-online-29-june-2026">Course Orientation (Online) | 29 June 2026</h3>
+<p>The orientation will explain the pre-course assignments and reading materials, how to access learning platforms, using GitHub and GitHub Codespaces for computer assignments, schedules, and communication tools.</p>
+</section>
+<section id="pre-course-assignments" class="level3">
+<h3 data-anchor-id="pre-course-assignments">Pre-Course assignments</h3>
+<p>Prior to the start of the course, participants are assigned several tasks:</p>
+<ul>
+<li>Reading materials and basic coding skill preparation</li>
+<li>1-2 minutes introduction video about you and why you are interested to join this course</li>
+<li>An essay on the current challenges faced by Tropical Biodiversity and opportunities in the age of data and AI</li>
+</ul>
+</section>
+<section id="pre-course-online-hybrid-6---9-july-2026" class="level3">
+<h3 data-anchor-id="pre-course-online-hybrid-6---9-july-2026">Pre-Course (Online Hybrid) | 6 - 9 July 2026</h3>
+<table class="table-striped table-hover caption-top table">
+<colgroup>
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 14%">
+<col style="width: 25%">
+<col style="width: 39%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Day</th>
+<th>Date</th>
+<th>Session</th>
+<th>Topic</th>
+<th>Activities</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Day 1</td>
+<td>Mon, 6/7/26</td>
+<td>Online</td>
+<td>Tropical Biodiversity in the Data Age</td>
+<td>Lectures on biodiversity challenges, data types, and course overview</td>
+</tr>
+<tr class="even">
+<td>Day 2</td>
+<td>Tue, 7/7/26</td>
+<td>Online</td>
+<td>Study Design, Sampling, &amp; Metadata</td>
+<td>Sampling design, metadata standards, ethics and mini exercise</td>
+</tr>
+<tr class="odd">
+<td>Day 3</td>
+<td>Wed, 8/7/26</td>
+<td>Online</td>
+<td>Genomics for Biodiversity Assesment</td>
+<td>Bioinformatics practicals on metabarcoding, metagenomics, and biodiversity analysis</td>
+</tr>
+<tr class="even">
+<td>Day 4</td>
+<td>Thu, 9/7/26</td>
+<td>Online</td>
+<td>From Data to Impact</td>
+<td>Bioprospecting, GIS data analysis, policy case studies</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="onsite-course-13---19-july-2026" class="level3">
+<h3 data-anchor-id="onsite-course-13---19-july-2026">Onsite Course | 13 - 19 July 2026</h3>
+<table class="table-striped table-hover caption-top table">
+<colgroup>
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 14%">
+<col style="width: 25%">
+<col style="width: 39%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Day</th>
+<th>Date</th>
+<th>Session</th>
+<th>Topic</th>
+<th>Activities</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Optional Event</td>
+<td>Sun, 12/7/26</td>
+<td>Welcoming Dinner</td>
+<td>Greetings and getting to know each other</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Day 5</td>
+<td>Mon, 13/7/26</td>
+<td>Lab</td>
+<td>Welcoming Ceremony &amp; Field Sampling Preparation</td>
+<td>Opening session, course briefing, introduction to field and safety protocols</td>
+</tr>
+<tr class="odd">
+<td>Day 6</td>
+<td>Tue, 14/7/26</td>
+<td>Field</td>
+<td>Field Sampling Day 1 (Terrestrial Ecosystems)</td>
+<td>Terrestrial sampling (soil, plants, insects), environmental measurements, GIS data acquisition using drones</td>
+</tr>
+<tr class="even">
+<td>Day 7</td>
+<td>Wed, 15/7/26</td>
+<td>Field</td>
+<td>Field Sampling Day 2 (Coastal/Intertidal)</td>
+<td>Intertidal sampling, water sampling, ecological observations, metadata recording</td>
+</tr>
+<tr class="odd">
+<td>Day 8</td>
+<td>Thu, 16/7/26</td>
+<td>Lab</td>
+<td>From Sample to DNA</td>
+<td>DNA extraction, quality control (QC), Library Preparation for Next-Generation Sequencing</td>
+</tr>
+<tr class="even">
+<td>Day 9</td>
+<td>Fri, 17/7/26</td>
+<td>Computer</td>
+<td>From Genomes to Landscapes</td>
+<td>Sequence data processing, integrating biodiversity data with GIS and spatial mapping</td>
+</tr>
+<tr class="odd">
+<td>Day 10</td>
+<td>Sat, 18/7/26</td>
+<td>Biodiversity Summit</td>
+<td>From Data to Decisions</td>
+<td>Group presentations, translating results into policy recommendations, discussion &amp; closing</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="post-course-assignments" class="level3">
+<h3 data-anchor-id="post-course-assignments">Post Course assignments</h3>
+<p>Participant will be assigned to create a project report or analysis portofolio on what they learn during the course using GitHub pages.</p>
+</section>
 </div>
 </div>
 
-
-</div>
 
 
 
@@ -777,7 +759,7 @@ window.Quarto = {
     }
   });
   </script>
- <!-- /content -->
+</div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
