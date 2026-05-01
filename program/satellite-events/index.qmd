@@ -1,0 +1,10 @@
+---
+pagetitle: "Satellite Events"
+
+---
+::: grid
+
+::: {#sponsors_banner .g-col-12 .title}
+# Satellite Event
+Satellite event is a standalone event that participant can register
+:::

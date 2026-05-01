@@ -24,9 +24,13 @@ website:
           - text: Sponsors
             href: about/sponsors/
       - text: Program
-        href: program/schedule/
+        menu:
+        - text: Schedule
+          href: program/schedule/
+        - text: Satellite Events
+          href: program/satellite-events/
       - text: Speakers
-        href: program/speakers/
+        href: speakers/
       - text: Register
         href: register.qmd
       #- text: Participation

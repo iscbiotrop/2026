@@ -1,17 +1,27 @@
-    - name: Prof. Alexander G. Maier
+    - name: Alexander G. Maier
       affiliation: Australian National University (ANU)
+      href: https://biology.anu.edu.au/people/alexander-maier
       thumbnail: https://biology.anu.edu.au/sites/prod.biology.sca-lws06.anu.edu.au/files/styles/portrait_250_250/public/Alex_Maier_2026.jpg.webp?h=2c4089a3&itok=aanf6Ojk
       country: au
       social: 
       - website: https://biology.anu.edu.au/people/alexander-maier
-    - name: Assoc. Prof. Dr. Alona Cuevas Linatoc
+    - name: Alona Cuevas Linatoc
       affiliation: University of the Philippines Los Baños (UPLB)
-      thumbnail: https://media.licdn.com/dms/image/v2/D5603AQGSUdyez2Osbw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1679523964783?e=1777507200&v=beta&t=bZ_Wb20w4lLRPR014lrdDQRV-eh26lS1adMyUAIwL5M
+      href: https://cfnr.uplb.edu.ph/fbs/
+      thumbnail: img/alona.jpg
       country: ph
       social: 
       - linkedin: https://www.linkedin.com/in/alona-linatoc-4799b071/
-    - name: Prof. Madya Ts. Dr. Muhammad Abdul Latiff bin Abu Bakar
+    - name: Ashley Jones
+      affiliation: Australian National University (ANU)
+      href: https://researchportalplus.anu.edu.au/en/persons/ashley-jones/
+      thumbnail: https://researchportalplus.anu.edu.au/files-asset/214502506/20211113_011855_square.jpg?w=320&f=webp
+      country: au
+      social: 
+      - website: https://researchportalplus.anu.edu.au/en/persons/ashley-jones/
+    - name: Muhammad Abdul Latiff bin Abu Bakar
       affiliation: Universiti Tun Hussein Onn Malaysia (UTHM)
+      href: https://community.uthm.edu.my/latiff
       thumbnail: https://fast.uthm.edu.my/wp-content/themes/yootheme/cache/bb/PROF.-MADYA-Ts.-Dr.-MUHAMMAD-ABDUL-LATIFF-BIN-ABU-BAKAR-scaled-bbf0ef26.webp
       country: my
       social: 
@@ -24,18 +34,26 @@
       social:
       - website: https://genau.id/
       - linkedin: https://id.linkedin.com/in/amelianugrahaningrum
-    - name: Matin Nuhamunada, M.Sc., Ph.D.
+    - name: Matin Nuhamunada
       affiliation: Biotechnology Lab UGM / Integrated Genome Factory
-      href: https://www.matinnu.org/
-      thumbnail: https://media.licdn.com/dms/image/v2/D4D03AQHn_e-TXcaw7Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718568387977?e=1776902400&v=beta&t=FnFtT7g_2HMqeA3nh6SAhB7c0zqYK7IA8aUU8URa9gA
+      href: https://www.matinnu.org/author/matin-nuhamunada/
+      thumbnail: img/matin.jpg
       country: id
       social: 
       - website: https://www.matinnu.org/
       - github: https://github.com/matinnuhamunada
       - linkedin: https://www.linkedin.com/in/matin-nuhamunada-0256a368/
-    - name: Dr. Ir. Yan Restu Freski, M.Eng.
+    - name: Thomas Groen
+      affiliation: University of Twente
+      href: https://people.utwente.nl/t.a.groen
+      thumbnail: img/thomas.jpg
+      country: nl
+      social: 
+      - linkedin: https://www.linkedin.com/in/thomas-groen-%F0%9F%9F%A5-2668105/
+    - name: Yan Restu Freski
       affiliation: Dept. of Geological Engineering, UGM
-      thumbnail: https://media.licdn.com/dms/image/v2/D5603AQFHErOs_C4HJg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730881871556?e=1776902400&v=beta&t=EypFfhH2r0Q0UbMWc0MS67zhuxVi1NXiDg4VHov-590
+      href: https://www.linkedin.com/in/yan-restu-freski-601223b0/
+      thumbnail: img/yan.jpg
       country: id
       social: 
       - linkedin: https://www.linkedin.com/in/yan-restu-freski-601223b0/
