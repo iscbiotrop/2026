@@ -5,11 +5,11 @@ pagetitle: "Registration"
 ::: grid
 ::: {#about_banner .g-col-12 .title}
 # Registration
-Registration for ISC Biotrop 2026 will be open soon. Please stay tuned for further updates on this page.
+Registration for ISC Biotrop 2026 is open. Please stay tuned for further updates on this page.
 :::
 
 ::: {.g-col-6 .text_block}
-For early inquiries or to express your interest, feel free to contact us at: [oia.biology@ugm.ac.id](mailto:oia.biology@ugm.ac.id)
+For early inquiries or to express your interest, feel free to contact us at: [admin@iscbiotrop.org](mailto:admin@iscbiotrop.org)
 
 ### Course Packages
 
@@ -20,7 +20,7 @@ For early inquiries or to express your interest, feel free to contact us at: [oi
 | Hands on GIS Analysis | ☑️ | ☑️ | ☑️ |
 | Field Trips | ☑️ | ☑️ | ☐ |
 | Next-Generation Sequencing sample preparation | ☑️ | ☑️ | ☐ |
-| Accomodation and Transport during Trips | ☑️ | ☑️ | ☐ |
+| Accomodation and Transport during Field Trips | ☑️ | ☑️ | ☐ |
 | Summer Course Kit | ☑️ | ☑️ | ☐ |
 | Airport train tickets | ☑️ | ☐ | ☐ |
 : {.striped .hover}
@@ -36,40 +36,80 @@ For early inquiries or to express your interest, feel free to contact us at: [oi
 ::: {.g-col-6 .img_margin}
 ![](/img/field-sampling.jpg){.img_block width="100%"}
 :::
-<div></div>
+
 :::
 
+<div></div>
 
 ::: {.g-col-12 .full_text_block}
 ### Pricing
 
 | <small>Category</small> | <small>Course Fees</small> | <small>VISA C9*</small> | <small>Total Price (USD)</small> | <small>Total Price (IDR)</small> |
 |-----|-----|-----|-----|-----|
-| <small>International Students</small> | <small>250 USD | <small>IDR 2.000.000,-</small> | <small>~368 USD</small> | <small>IDR 6.300.000,-</small> |
-| <small>ASEAN Students</small> | <small>125 USD | <small>IDR 2.000.000,-</small> | <small>~243 USD</small> | <small>IDR 4.129.000,-</small> |
+| <small>International Students</small> | <small>250 USD | <small>IDR 2.000.000,-</small> | <small>~368 USD</small> | <small>IDR 6.440.000,-</small> |
+| <small>ASEAN Students</small> | <small>125 USD | <small>IDR 2.000.000,-</small> | <small>~243 USD</small> | <small>IDR 4.252.500,-</small> |
 | <small>Indonesian Students</small> | <small>IDR 2.000.000,-</small> | | | <small>IDR 2.000.000,-</small> |
-| <small>Online Session Only</small> | <small>50 USD</small> | | <small>50 USD</small> | <small>IDR 850.000,-</small> |
+| <small>Online Session Only</small> | <small>50 USD</small> | | <small>50 USD</small> | <small>IDR 875.000,-</small> |
 : {.striped .hover}
 
 > <small>*VISA for Cultural and Social Visit (index C9) is mandatory for all international participants. Visa application will be processed by UGM.</small>
+:::
 
+<div></div>
+
+::: {.g-col-12 .full_text_block}
 ### Registration Overview
 
 ```{mermaid}
 graph LR
-    A["Register via OIA UGM Admission Site"] --> B["Fill in Online Forms"]
+    I["International Students"]  --> A["Register via OIA UGM Admission Site"]
+    L["Local Students"] --> B["Fill in Registration Form"]
+    A --> B
     B --> C["Receive Letter of Offer & Billing Details"]
     C --> D["Payment"]
-    D --> E["Letter of Acceptance"]
+    D --> E["Letter of Acceptance & C9 VISA"]
 ```
 
-1. All participants (International and local) must first register via Office of International Affairs (OIA) Admission site to get Letter of Offer (includes billing details) and Letter of Acceptance issued by the OIA of Universitas Gadjah Mada.
+:::
+
+<div></div>
+
+::: {.g-col-12 .full_text_block}
+### International and ASEAN students
+
+1. All international participants (**online** and **onsite**) must first register via Office of International Affairs (OIA) [**Admission site**](https://admissions.ugm.ac.id/enrollment/public/) to get Letter of Offer (includes billing details) and Letter of Acceptance issued by the OIA of Universitas Gadjah Mada.
 2. Required documents for registration are:
-    - Color scanned Passport or ID Card (.JPG max 2MB)
-    - Pass photo (.pdf max 2MB)
-3. Participants are required to fill in Online Form for important and detailed information. The form consists of:
-    - personal information
-    - Health records and Dietary restriction form
+    - Color scanned Passport (`.JPG` max 2MB)
+    - Pass photo (`.pdf` max 2MB) (white background, the shoulder must appear in the photo)
+3. Participants are also required to fill in [Registration Form](http://ugm.id/RegistrationISC2026) for important and detailed information. The form consists of:
+    - Personal information
+    - CV and motivation letter (suggested in PDF)
+    - Health records and Dietary restrictions
     - Additional facilities
     - Proof of OIA Admission Registration for International participant (Screen shot of Enrollment History .pdf/.jpeg/.png max 2MB).
+
+:::{.text-center}
+[👉 OIA Admission Site](https://admissions.ugm.ac.id/enrollment/public/){.btn .btn-primary target="_blank"} [👉 Registration Form](http://ugm.id/RegistrationISC2026){.btn .btn-primary target="_blank"}
 :::
+
+:::
+
+<div></div>
+
+::: {.g-col-12 .full_text_block}
+### Indonesian Participants
+
+1. Local participants are only required to fill in the [registration form](http://ugm.id/RegistrationISC2026Local). The form consists of:
+    - Personal Information
+    - CV and motivation letter (suggested in PDF)
+    - Health records and Dietary restriction form
+2. Once submitted, the application will be processed for review.
+3. Payment details will be provided via email after the selection process.
+
+:::{.text-center}
+[👉 Registration Form](http://ugm.id/RegistrationISC2026){.btn .btn-primary target="_blank"}
+:::
+
+:::
+
+<div></div>

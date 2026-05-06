@@ -24,6 +24,11 @@ listing:
 #### 6-9 July 2026 (Online Hybrid Pre-Course) | 13-18 July 2026 (Onsite Course){style="max-width: fit-content; max-width: -moz-fit-content;"}
 
 #### @ Universitas Gadjah Mada, Yogyakarta, Indonesia
+
+[👉 International Registration](/register.html#international-and-asean-students){.btn .btn-primary target="_blank"}
+
+[👉 Local Registration](/register.html#indonesian-participants){.btn .btn-primary target="_blank"}
+
 :::
 
 ::: {#countdown .g-col-12}
