@@ -25,10 +25,12 @@ website:
             href: about/sponsors/
       - text: Program
         menu:
-        - text: Schedule
+        - text: Main Schedule
           href: program/schedule/
         - text: Satellite Events
           href: program/satellite-events/
+        - text: NCP 4 Weeks Coursework
+          href: program/ncp/
       - text: Speakers
         href: speakers/
       - text: Register

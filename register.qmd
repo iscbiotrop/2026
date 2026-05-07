@@ -75,6 +75,19 @@ graph LR
 <div></div>
 
 ::: {.g-col-12 .full_text_block}
+### Registration Deadlines
+
+| <small>Category</small> | <small>Deadline</small> | <small>Notes</small> |
+|-----|-----|-----|
+| <small>International and ASEAN Students (1st Wave)</small> | <small>**15th May 2026**</small> |  |
+| <small>International and ASEAN Students (Final Wave)</small> | <small>**29th May 2026**</small> | <small>_Registration will be closed when the quota is reached_</small> |
+| <small>Local Students</small>| <small>**8 June 2026**</small> |  |
+| <small>Online Participants</small>| <small>**15 June 2026**</small> |  |
+: {.striped .hover}
+:::
+
+<div></div>
+::: {.g-col-12 .full_text_block}
 ### International and ASEAN students
 
 1. All international participants (**online** and **onsite**) must first register via Office of International Affairs (OIA) [**Admission site**](https://admissions.ugm.ac.id/enrollment/public/) to get Letter of Offer (includes billing details) and Letter of Acceptance issued by the OIA of Universitas Gadjah Mada.

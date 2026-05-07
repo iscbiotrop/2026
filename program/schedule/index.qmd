@@ -1,5 +1,5 @@
 ---
-pagetitle: "Schedule"
+pagetitle: "Main Schedule"
 
 ---
 ::: grid
