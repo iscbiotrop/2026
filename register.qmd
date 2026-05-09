@@ -22,14 +22,16 @@ For early inquiries or to express your interest, feel free to contact us at: [ad
 | Next-Generation Sequencing sample preparation | ☑️ | ☑️ | ☐ |
 | Accomodation and Transport during Field Trips | ☑️ | ☑️ | ☐ |
 | Summer Course Kit | ☑️ | ☑️ | ☐ |
+| Meals during classes and fieldtrips | ☑️ | ☑️ | ☐ |
 | Airport train tickets | ☑️ | ☐ | ☐ |
 : {.striped .hover}
 
-> <small>**What are not covered:**</small>  
->
-> - <small>Health insurance. All participants are encouraged to apply for health insurance individually.</small>
-> - <small>Flight or transportation of arrival and departure from Yogyakarta</small>
-> - <small>SIM Card and Internet data package, Laundry service, Dinners outside of class and field trips, and Personal-related expenses.</small>
+::: {.callout-important}
+- <small>Health insurance are not covered. All participants are encouraged to apply for health insurance individually.</small>
+- <small>Flight or transportation of arrival and departure from Yogyakarta</small>
+- <small>SIM Card and Internet data package, Laundry service, Dinners outside of class and field trips, and Personal-related expenses.</small>
+- <small>Please refer to this [page](/program/ncp){target="_blank"} for the facilities given to the **NCP 4 Weeks Program** participants.</small>
+:::
 
 :::
 
@@ -50,9 +52,12 @@ For early inquiries or to express your interest, feel free to contact us at: [ad
 | <small>ASEAN Students</small> | <small>125 USD | <small>IDR 2.000.000,-</small> | <small>~243 USD</small> | <small>IDR 4.252.500,-</small> |
 | <small>Indonesian Students</small> | <small>IDR 2.000.000,-</small> | | | <small>IDR 2.000.000,-</small> |
 | <small>Online Session Only</small> | <small>50 USD</small> | | <small>50 USD</small> | <small>IDR 875.000,-</small> |
+| <small>[**NCP 4 Weeks Course**](/program/ncp){target="_blank"}</small> | <small>3000 AUD</small> | <small>included</small> | <small>3000 AUD</small> | <small>IDR 37.783.950,-</small> |
 : {.striped .hover}
 
-> <small>*VISA for Cultural and Social Visit (index C9) is mandatory for all international participants. Visa application will be processed by UGM.</small>
+::: {.callout-important}
+<small>*VISA for Cultural and Social Visit (index C9) is mandatory for all international participants. Visa application will be processed by UGM.</small>
+:::
 :::
 
 <div></div>
@@ -99,7 +104,7 @@ graph LR
     - CV and motivation letter (suggested in PDF)
     - Health records and Dietary restrictions
     - Additional facilities
-    - Proof of OIA Admission Registration for International participant (Screen shot of Enrollment History .pdf/.jpeg/.png max 2MB).
+    - Proof of OIA Admission Registration for International participant (Screen shot of Enrollment History `.pdf`/`.jpeg`/`.png` max 2MB).
 
 :::{.text-center}
 [👉 OIA Admission Site](https://admissions.ugm.ac.id/enrollment/public/){.btn .btn-primary target="_blank"} [👉 Registration Form](http://ugm.id/RegistrationISC2026){.btn .btn-primary target="_blank"}

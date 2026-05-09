@@ -11,7 +11,7 @@ This program extends the summer course into a 4 week program which include Indon
 
 ::: {.g-col-12 .full_text_block}
 
-![](/img/ncp_full.png)
+![](/img/NCP_full.png)
 
 ### Programme Description
 
@@ -23,10 +23,35 @@ This course work is originally tailored for the New Colombo Plan initiatives fro
 | <small>**29 June - 2 July 2026**</small> | <small>Indonesian Language and Culture Learning (INCULS)</small> |  |
 | <small>**6-9 July 2026**</small>| <small>Classes & Lecture Session</small> | <small>[See ISCBiotrop Main Schedule for details](/program/schedule/)</small> |
 | <small>**13-17 July 2026**</small>| <small>Field Trip and Laboratory / Practical Sessions</small> | <small>[See ISCBiotrop Main Schedule for details](/program/schedule/)</small> |
-| <small>**18 July 2026**</small>| <small>Biodiversity Summit Student Conference</small> | <small>[See ISCBiotrop Main Schedule for details](/program/schedule/)</small> |
+| <small>**18 July 2026**</small>| <small>Biodiversity Summit Student Conference</small> | <small>[See Biodiversity summit for details](/program/summit/)</small> |
 | <small>**21-23 July 2026**</small>| <small>Ramban Rimba with Genau Foundation</small> | <small>[See Satellite Events for details](/program/satellite-events/)</small> |
 | <small>**24-25 July 2026**</small>| <small>Program Wrap up and Closing</small> |  |
 : {.striped .hover}
+
+### Course Packages
+
+| Facilities | NCP 4-Weeks Program |
+|------------|---|---|---|
+| 28 Days Accomodation at University Hotel/Dormitories* | ☑️ |
+| INCULS & Cultural Trips | ☑️ |
+| Ramban Rimba Trips with Genau | ☑️ |
+| Lectures from Experts | ☑️ |
+| Hands on Bioinformatics Analysis | ☑️ |
+| Hands on GIS Analysis | ☑️ |
+| Field Trips | ☑️ |
+| Next-Generation Sequencing sample preparation | ☑️ |
+| Accomodation and Transport during Field Trips | ☑️ |
+| Summer Course Kit | ☑️ |
+| Meals during classes and fieldtrips | ☑️ |
+| Airport train tickets | ☑️ |
+: {.striped .hover}
+
+::: {.callout-important}
+- <small>*You might be sharing with your peers in the University Accomodations.</small>
+- <small>Health insurance are not covered. All participants are encouraged to apply for health insurance individually.</small>
+- <small>Flight or transportation of arrival and departure from Yogyakarta</small>
+- <small>SIM Card and Internet data package, Laundry service, Dinners outside of class and field trips, and Personal-related expenses.</small>
+:::
 
 ### Indonesian Language and Culture Learning (INCULS)
 
