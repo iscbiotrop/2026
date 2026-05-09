@@ -5,8 +5,8 @@ pagetitle: "Satellite Events"
 ::: grid
 
 ::: {#sponsors_banner .g-col-12 .title}
-# Satellite Event
-Satellite event is a standalone event that participant can register
+# Satellite Events
+Satellite events are standalone events that participant can register in conjunction with the summer course.
 :::
 
 ::: {.g-col-12 .full_text_block}
