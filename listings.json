@@ -1,10 +1,6 @@
 [
   {
-    "listing": "/speakers/index.html",
-    "items": []
-  },
-  {
-    "listing": "/index.html",
+    "listing": "/about/sponsors/index.html",
     "items": []
   },
   {
@@ -12,7 +8,11 @@
     "items": []
   },
   {
-    "listing": "/about/sponsors/index.html",
+    "listing": "/index.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/index.html",
     "items": []
   }
 ]
