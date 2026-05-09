@@ -14,13 +14,16 @@ This program extends the summer course into a 4 week program which include Indon
 ![](/img/NCP_full.png)
 
 ### Programme Description
+_28 June - 25 July 2026_
+
+[👉 Registration Guide Here!](/register.html#international-and-asean-students){.btn .btn-primary target="_blank"}
 
 This course work is originally tailored for the New Colombo Plan initiatives from the Australian Government, in collaboration with University Technology Sydney. Student will spend four weeks developing their Indo-Pacific capability and Asia literacy through immersive, and structured learning in Indonesia. This program extends the main summer course program with Indonesian Language and Culture Learning (INCULS) and a three days two nights trip to Genau Indonesia in Petungkriyono, Pekalongan, one of the last Tropical Forest in the Java Island. 
 
 | <small>Date</small> | <small>Activity</small> | <small>Notes</small> |
 |-----|-----|-----|
 | <small>**28 June 2026**</small> | <small>Arrival in Yogyakarta</small> |  |
-| <small>**29 June - 2 July 2026**</small> | <small>Indonesian Language and Culture Learning (INCULS)</small> |  |
+| <small>**29 June - 2 July 2026**</small> | <small>Indonesian Language and Culture Learning (INCULS)</small> | <small>[See Satellite Events for details](/program/satellite-events/)</small> |
 | <small>**6-9 July 2026**</small>| <small>Classes & Lecture Session</small> | <small>[See ISCBiotrop Main Schedule for details](/program/schedule/)</small> |
 | <small>**13-17 July 2026**</small>| <small>Field Trip and Laboratory / Practical Sessions</small> | <small>[See ISCBiotrop Main Schedule for details](/program/schedule/)</small> |
 | <small>**18 July 2026**</small>| <small>Biodiversity Summit Student Conference</small> | <small>[See Biodiversity summit for details](/program/summit/)</small> |
@@ -69,7 +72,7 @@ This event invites ~100 students, practitioners, and researchers from Yogyakarta
 
 ![](/img/summit.png)
 
-### Ramban Rimba with Genau Foundation
+### [Ramban Rimba with Genau Foundation](https://genau.id/){target="_blank"}
 
 **Ramban Rimba means Foraging in the Forest.**
 

@@ -21,7 +21,7 @@ INCULS is a practical course on Indonesian Language and Culture, organized by th
 :::
 
 ::: {.g-col-12 .full_text_block}
-### Ramban Rimba with Genau Foundation
+### [Ramban Rimba with Genau Foundation](https://genau.id/){target="_blank"}
 _21 - 23 July 2026_
 
 **Ramban Rimba means Foraging in the Forest.**
