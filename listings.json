@@ -1,10 +1,6 @@
 [
   {
-    "listing": "/about/sponsors/index.html",
-    "items": []
-  },
-  {
-    "listing": "/participation/keydates/index.html",
+    "listing": "/speakers/index.html",
     "items": []
   },
   {
@@ -12,7 +8,7 @@
     "items": []
   },
   {
-    "listing": "/speakers/index.html",
+    "listing": "/about/sponsors/index.html",
     "items": []
   }
 ]
