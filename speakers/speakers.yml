@@ -23,10 +23,17 @@
     - name: Ashley Jones
       affiliation: Australian National University (ANU)
       href: https://researchportalplus.anu.edu.au/en/persons/ashley-jones/
-      thumbnail: https://researchportalplus.anu.edu.au/files-asset/214502506/20211113_011855_square.jpg?w=320&f=webp
+      thumbnail: img/ashley.webp
       country: au
       social: 
       - website: https://researchportalplus.anu.edu.au/en/persons/ashley-jones/
+    - name: Noor Janatun Naim Jemali
+      affiliation: Universiti Malaysia Kelantan (UMK)
+      href: https://expert.umk.edu.my/directory.cfm?group=F6020100
+      thumbnail: img/jannatun.jpg
+      country: my
+      social: 
+      - linkedin: https://www.linkedin.com/in/noor-jemali-57837115a/
     - name: Matin Nuhamunada
       affiliation: Universitas Gadjah Mada (UGM)
       href: https://www.matinnu.org/author/matin-nuhamunada/
