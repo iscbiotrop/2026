@@ -120,7 +120,7 @@ graph LR
 3. Payment details will be provided via email after the selection process.
 
 :::{.text-center}
-[👉 Registration Form](http://ugm.id/RegistrationISC2026){.btn .btn-primary target="_blank"}
+[👉 Registration Form](http://ugm.id/RegistrationISC2026Local){.btn .btn-primary target="_blank"}
 :::
 
 :::
