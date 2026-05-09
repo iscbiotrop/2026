@@ -39,23 +39,31 @@ listing:
 
 The International Summer Course (ISC) Biotrop 2026 is an annual program organized by the Faculty of Biology, Universitas Gadjah Mada, welcoming students from around the world to explore Tropical Biology and sustainable development practices in Indonesia and the ASEAN region.
 
-This year’s theme, "**From Ecosystems to Repositories: Data-Driven Insights into Tropical Biodiversity**", highlights the growing role of data in understanding and protecting biodiversity. This 10-day program combines **four days of online lectures** with **six days of intensive onsite activities**, providing participants with an end-to-end learning experience—from field sampling in tropical ecosystems to data analysis and interpretation.
+This year’s theme, "**From Ecosystems to Repositories: Data-Driven Insights into Tropical Biodiversity**", highlights the growing role of data in understanding and protecting biodiversity. This 10-day program combines **four days of online/hybrid lectures** with **six days of intensive onsite activities**, providing participants with an end-to-end learning experience—from field sampling in tropical ecosystems to data analysis and interpretation.
 
 Participants will gain hands-on experience in biodiversity through the lense of **DNA sequencing** and **Geographical Information System (GIS)**, while also learning how to translate scientific data into meaningful insights for conservation and policy. The course is designed for students and early-career researchers interested in tropical ecosystems, genomics, and data-driven approaches to biodiversity assessment, bioprospecting, and conservation.
 
-<iframe
-  width="100%" height="400"
-  src="https://www.youtube.com/embed/tXC557UOYBY?si=EBvna14W5JVExh6H?autoplay=1&mute=1"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  referrerpolicy="strict-origin-when-cross-origin"
-  allowfullscreen>
-</iframe>
+### Why you should join this summer course?
+
+![](/img/as_above_so_below.png){.img_block width="100%"}
+
+This summer course bridges the gap between field research and climate action by equipping the next generation with the data literacy needed to transform complex biodiversity datasets into impactful conservation policies. 
+
+This summer course aims to:
+
+1. Develop **data literacy** for students, biology researchers, and biodiversity practitioners 
+2. Build participant’s capacity in **interpreting biodiversity** data as the basis for **sustainable policy practices**
+
+By integrating genomic and spatial data, the course empowers participants to provide the evidence-based insights essential for mitigating climate change and securing sustainable development in the ASEAN region.
 :::
 
 ::: {.g-col-6 .img_margin}
 ![](/img/poster.jpeg){.img_block width="100%"}
+
+:::{.text-center}
+[👉 Main Program](/program/schedule/){.btn .btn-primary target="_blank"}
+:::
+
 :::
 
 ::: {#sponsors .g-col-12}
