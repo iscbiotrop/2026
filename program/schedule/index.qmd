@@ -61,10 +61,10 @@ Prior to the start of the course, participants are assigned several tasks:
 
 | Day | Date | Session | Topic | Activities |
 |---|---|----|-------|-----------|
-| Day 1 | Mon, 6/7/26 | Online | Tropical Biodiversity in the Data Age | Lectures on biodiversity challenges, data types, and course overview |
-| Day 2 | Tue, 7/7/26 | Online | Study Design, Sampling, & Metadata | Sampling design, metadata standards, ethics and mini exercise |
-| Day 3 | Wed, 8/7/26 | Online | Genomics for Biodiversity Assesment | Bioinformatics practicals on metabarcoding, metagenomics, and biodiversity analysis |
-| Day 4 | Thu, 9/7/26 | Online | From Data to Impact | Bioprospecting, GIS data analysis, policy case studies |
+| Day 1 | Mon, 6/7/26 | Hybrid | Tropical Biodiversity in the Data Age | Lectures on biodiversity challenges, data types, and course overview |
+| Day 2 | Tue, 7/7/26 | Hybrid | Study Design, Sampling, & Metadata | Sampling design, metadata standards, ethics and mini exercise |
+| Day 3 | Wed, 8/7/26 | Hybrid | Genomics for Biodiversity Assesment | Bioinformatics practicals on metabarcoding, metagenomics, and biodiversity analysis |
+| Day 4 | Thu, 9/7/26 | Hybrid | From Data to Impact | Bioprospecting, GIS data analysis, policy case studies |
 : {.striped .hover}
 
 ### Onsite Course | 13 - 19 July 2026
