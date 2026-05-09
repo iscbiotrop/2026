@@ -27,6 +27,8 @@ website:
         menu:
         - text: Main Schedule
           href: program/schedule/
+        - text: Biodiversity Summit
+          href: program/summit/
         - text: Satellite Events
           href: program/satellite-events/
         - text: NCP 4 Weeks Coursework

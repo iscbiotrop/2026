@@ -8,3 +8,49 @@ pagetitle: "New Colombo Plan 4 Weeks Coursework"
 # NCP 4 Weeks Coursework
 This program extends the summer course into a 4 week program which include Indonesian language and cultural learning.
 :::
+
+::: {.g-col-12 .full_text_block}
+
+![](/img/ncp_full.png)
+
+### Programme Description
+
+This course work is originally tailored for the New Colombo Plan initiatives from the Australian Government, in collaboration with University Technology Sydney. Student will spend four weeks developing their Indo-Pacific capability and Asia literacy through immersive, structured learning and internships in Indonesia. This program extends the main summer course program with Indonesian Language and Culture Learning (INCULS) and a three days two nights trip to Genau Indonesia in Petungkriyono, Pekalongan, one the last Tropical Forest in the Java Island. 
+
+| <small>Date</small> | <small>Activity</small> | <small>Notes</small> |
+|-----|-----|-----|
+| <small>**28 June 2026**</small> | <small>Arrival in Yogyakarta</small> |  |
+| <small>**29 June - 2 July 2026**</small> | <small>Indonesian Language and Culture Learning (INCULS)</small> |  |
+| <small>**6-9 July 2026**</small>| <small>Classes & Lecture Session</small> | <small>[See ISCBiotrop Main Schedule for details](/program/schedule/)</small> |
+| <small>**13-17 July 2026**</small>| <small>Field Trip and Laboratory / Practical Sessions</small> | <small>[See ISCBiotrop Main Schedule for details](/program/schedule/)</small> |
+| <small>**18 July 2026**</small>| <small>Biodiversity Summit Student Conference</small> | <small>[See ISCBiotrop Main Schedule for details](/program/schedule/)</small> |
+| <small>**21-23 July 2026**</small>| <small>Ramban Rimba with Genau Foundation</small> | <small>[See Satellite Events for details](/program/satellite-events/)</small> |
+| <small>**24-25 July 2026**</small>| <small>Program Wrap up and Closing</small> |  |
+: {.striped .hover}
+
+### Indonesian Language and Culture Learning (INCULS)
+
+INCULS is a practical course on Indonesian Language and Culture, organized by the Faculty of Arts and Humanities, Universitas Gadjah Mada. In this session, participants will be given an introduction and practical basics to speak bahasa Indonesia and understands the diverse culture in the archipelago. The program involves a special lecture on Indonesian culture, practical language course, cultural activities (batik, gamelan, OR traditional dances), and a workshop (Indonesian cooking, silver jewelry crafting, OR pencak silat). We will also organize trips to heritage sites in Yogyakarta and help you explore the vibrant city of Yogyakarta with student buddies giving practical tips and recommendations.
+
+![](/img/INCULS.png)
+
+### ISC Biotrop 2026
+On the second and third week of the course, participants will join the International Summer Course on Tropical Biodiversity and Sustainable Development. [See the ISCBiotrop Main Schedule for details](/program/schedule/).
+
+### Biodiversity Summit
+This student conference on biodiversity will try to wrap up the summer course by bringing data into practice. Data cannot just stay in repositories; they need to be translated and brought to make in impact to the community. To close the summer course, we are collaborating with our partners at the Faculty of Biology to hold a student conference on biodiversity.
+
+This event invites ~100 students, practitioners, and researchers from Yogyakarta and other regions to come together and discuss about how we can utilize data into policy practices in managing and conserving biodiversity. Summer courses participant will join discussion, present ideas, and engage in debates to find the solution in current challenges in translating data into actionable insights
+
+![](/img/summit.png)
+
+### Ramban Rimba with Genau Foundation
+
+**Ramban Rimba means Foraging in the Forest.**
+
+Yayasan Genau Indonesia Hijau started as an initiative from our alumni and one of our Faculty member (Akbar Reza) in 2023, with the commitment to preserving Indonesia’s tropical rainforests and biodiversity. Genau Indonesia focuses on connecting conservation with community well-being. This 3 Days and 2 Nights trip will bring you to interact with the local people and explore Petungkriyono in Pekalongan, next to the Dieng Plateau, home to the largest Owa Jawa (Javanese Gibbon) conserved habitat.
+
+![](/img/genau.png)
+
+:::
+:::

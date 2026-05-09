@@ -1,0 +1,27 @@
+---
+pagetitle: "New Colombo Plan 4 Weeks Coursework"
+
+---
+::: grid
+
+::: {#sponsors_banner .g-col-12 .title}
+# Biodiversity Summit
+A one day student conference discussing how to bring data into practice in biodiversity management and conservation.
+:::
+
+::: {.g-col-12 .full_text_block}
+
+### Biodiversity Summit
+_18 July 2026_
+
+[Coming Soon](/program/summit){.btn .btn-primary}
+
+
+This student conference on biodiversity will try to wrap up the summer course by bringing data into practice. Data cannot just stay in repositories; they need to be translated and brought to make in impact to the community. To close the summer course, we are collaborating with our partners at the Faculty of Biology to hold a student conference on biodiversity.
+
+This event invites ~100 students, practitioners, and researchers from Yogyakarta and other regions to come together and discuss about how we can utilize data into policy practices in managing and conserving biodiversity. Summer courses participant will join discussion, present ideas, and engage in debates to find the solution in current challenges in translating data into actionable insights
+
+![](/img/summit.png)
+
+:::
+:::

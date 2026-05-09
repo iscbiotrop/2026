@@ -8,3 +8,29 @@ pagetitle: "Satellite Events"
 # Satellite Event
 Satellite event is a standalone event that participant can register
 :::
+
+::: {.g-col-12 .full_text_block}
+### Indonesian Language and Culture Learning (INCULS)
+_29 June - 2 July 2026_
+
+[👉 Register](mailto:inculs@iscbiotrop.org?subject=INCULS%202026%20Registration%20Interest&body=Dear%20INCULS%20Team%2C%0D%0A%0D%0AI%20am%20writing%20to%20express%20my%20interest%20in%20joining%20the%20Indonesian%20Culture%20and%20Language%20Service%20(INCULS)%20course%20as%20part%20of%20the%20ISC%20Biotrop%202026.%0D%0A%0D%0AMy%20details%20are%20as%20follows%3A%0D%0A-%20Name%3A%20%0D%0A-%20Passport%20ID%3A%20%0D%0A%0D%0AThank%20you.){.btn .btn-primary target="_blank"}
+
+INCULS is a practical course on Indonesian Language and Culture, organized by the Faculty of Arts and Humanities, Universitas Gadjah Mada. In this session, participants will be given an introduction and practical basics to speak bahasa Indonesia and understands the diverse culture in the archipelago. The program involves a special lecture on Indonesian culture, practical language course, cultural activities (batik, gamelan, OR traditional dances), and a workshop (Indonesian cooking, silver jewelry crafting, OR pencak silat). We will also organize trips to heritage sites in Yogyakarta and help you explore the vibrant city of Yogyakarta with student buddies giving practical tips and recommendations.
+
+![](/img/INCULS.png)
+:::
+
+::: {.g-col-12 .full_text_block}
+### Ramban Rimba with Genau Foundation
+_21 - 23 July 2026_
+
+**Ramban Rimba means Foraging in the Forest.**
+
+[👉 Register](mailto:genau@iscbiotrop.org?subject=Registration%20Interest%3A%20Ramban%20Rimba%20Trip%20(July%202026)&body=Dear%20Genau%20Foundation%20Team%2C%0D%0A%0D%0AI%20am%20interested%20in%20joining%20the%20Ramban%20Rimba%20(Foraging%20in%20the%20Forest)%20trip%20to%20Petungkriyono%2C%20scheduled%20for%2021%20-%2023%20July%202026.%0D%0A%0D%0AAs%20an%20initiative%20committed%20to%20preserving%20Indonesia%E2%80%99s%20tropical%20rainforests%20and%20community%20well-being%2C%20I%20am%20excited%20to%20explore%20the%20Owa%20Jawa%20habitat%20and%20interact%20with%20the%20local%20people.%0D%0A%0D%0AMy%20details%20are%20as%20follows%3A%0D%0A-%20Full%20Name%3A%20%0D%0A-%20Passport%20ID%20%2F%20ID%20Number%3A%20%0D%0A%0D%0APlease%20provide%20me%20with%20further%20information%20regarding%20the%20registration%20process.%0D%0A%0D%0AThank%20you.){.btn .btn-primary target="_blank"}
+
+Yayasan Genau Indonesia Hijau started as an initiative from our alumni and one of our Faculty member (Akbar Reza) in 2023, with the commitment to preserving Indonesia’s tropical rainforests and biodiversity. Genau Indonesia focuses on connecting conservation with community well-being. This 3 Days and 2 Nights trip will bring you to interact with the local people and explore Petungkriyono in Pekalongan, next to the Dieng Plateau, home to the largest Owa Jawa (Javanese Gibbon) conserved habitat.
+
+![](/img/genau.png)
+:::
+
+:::
