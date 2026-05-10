@@ -50,6 +50,13 @@
       country: my
       social: 
       - website: https://community.uthm.edu.my/latiff
+    - name: Mukhlish Jamal Musa Holle
+      affiliation: Universitas Gadjah Mada (UGM)
+      href: https://acadstaff.ugm.ac.id/Jamal
+      thumbnail: img/jamal.jpg
+      country: id
+      social: 
+      - website: https://acadstaff.ugm.ac.id/Jamal
     - name: Thomas Groen
       affiliation: University of Twente
       href: https://people.utwente.nl/t.a.groen
