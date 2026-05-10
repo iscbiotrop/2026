@@ -27,6 +27,13 @@
       country: au
       social: 
       - website: https://researchportalplus.anu.edu.au/en/persons/ashley-jones/
+    - name: Citra Septiani
+      affiliation: World Resources Institute Indonesia
+      href: https://wri-indonesia.org/id/profile/citra-septiani
+      thumbnail: img/citra_septiani.jpg
+      country: id
+      social: 
+      - website: https://wri-indonesia.org/id/profile/citra-septiani
     - name: Noor Janatun Naim Jemali
       affiliation: Universiti Malaysia Kelantan (UMK)
       href: https://expert.umk.edu.my/directory.cfm?group=F6020100
