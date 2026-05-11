@@ -85,7 +85,7 @@ graph LR
 | <small>Category</small> | <small>Deadline</small> | <small>Notes</small> |
 |-----|-----|-----|
 | <small>International and ASEAN Students (1st Wave)</small> | <small>**15th May 2026**</small> |  |
-| <small>International and ASEAN Students (Final Wave)</small> | <small>**29th May 2026**</small> | <small>_Registration will be closed when the quota is reached_</small> |
+| <small>International and ASEAN Students (Final Wave)</small> | <small>**27th May 2026**</small> | <small>_Registration will be closed when the quota is reached_</small> |
 | <small>Local Students</small>| <small>**8 June 2026**</small> |  |
 | <small>Online Participants</small>| <small>**15 June 2026**</small> |  |
 : {.striped .hover}
