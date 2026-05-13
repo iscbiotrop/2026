@@ -51,7 +51,7 @@ For early inquiries or to express your interest, feel free to contact us at: [ad
 | <small>International Students</small> | <small>250 USD | <small>IDR 2.000.000,-</small> | <small>~368 USD</small> | <small>IDR 6.440.000,-</small> |
 | <small>ASEAN Students</small> | <small>125 USD | <small>IDR 2.000.000,-</small> | <small>~243 USD</small> | <small>IDR 4.252.500,-</small> |
 | <small>Indonesian Students</small> | <small>IDR 2.000.000,-</small> | | | <small>IDR 2.000.000,-</small> |
-| <small>Online Session Only</small> | <small>50 USD</small> | | <small>50 USD</small> | <small>IDR 875.000,-</small> |
+| <small>Online Session Only</small> | <small>50 USD</small> | | <small>50 USD</small> | <small>IDR 850.000,-</small> |
 | <small>[**NCP 4 Weeks Course**](/program/ncp){target="_blank"}</small> | <small>3000 AUD</small> | <small>included</small> | <small>3000 AUD</small> | <small>IDR 37.783.950,-</small> |
 : {.striped .hover}
 
