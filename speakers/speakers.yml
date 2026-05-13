@@ -64,6 +64,13 @@
       country: id
       social: 
       - website: https://acadstaff.ugm.ac.id/Jamal
+    - name: Sabhrina Gita Aninta
+      affiliation: Copenhagen University
+      href: https://researchprofiles.ku.dk/en/persons/sabhrina-gita-aninta/
+      thumbnail: img/user.png
+      country: dk
+      social: 
+      - website: https://researchprofiles.ku.dk/en/persons/sabhrina-gita-aninta/
     - name: Thomas Groen
       affiliation: University of Twente
       href: https://people.utwente.nl/t.a.groen
