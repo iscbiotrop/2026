@@ -1,14 +1,14 @@
 [
   {
+    "listing": "/about/sponsors/index.html",
+    "items": []
+  },
+  {
     "listing": "/speakers/index.html",
     "items": []
   },
   {
     "listing": "/index.html",
-    "items": []
-  },
-  {
-    "listing": "/about/sponsors/index.html",
     "items": []
   }
 ]
