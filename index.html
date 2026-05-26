@@ -44,7 +44,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-072e26145c0723926df9874e1675f240.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-c7f7f8e0ab70cd95f7857a8b78ce9bd9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -110,9 +110,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-name','listing-href','listing-thumbnail',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-name','listing-items',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: ["listing-name","listing-href","listing-thumbnail"],
+      searchColumns: ["listing-name","listing-items"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -323,36 +323,48 @@ window.Quarto = {
 </section>
 <div id="listing-sponsors" class="g-col-12 quarto-listing quarto-listing-container-custom">
 <div class="sponsorsFooter">
-      <h1 id="sponsorTitle" data-default-title="<strong>Our Sponsors</strong>"><strong>Our Sponsor and Partners</strong></h1>
-      <ul>
-        
-                            <li><a href="https://ugm.ac.id/" target="_blank" class="sblogos__link"><img class="sblogos__img" src="https://rekammedis.sv.ugm.ac.id/wp-content/uploads/sites/780/2020/10/Logo-Tengah-Stack-Up-1-1024x1024.jpg" alt="Universitas Gadjah Mada logo"></a></li>
-        
-                            <li><a href="https://www.anu.edu.au/" target="_blank" class="sblogos__link"><img class="sblogos__img" src="https://www.logo.wine/a/logo/Australian_National_University/Australian_National_University-Logo.wine.svg" alt="Australian National University logo"></a></li>
-        
-                            <li><a href="https://www.uts.edu.au/" target="_blank" class="sblogos__link"><img class="sblogos__img" src="https://s3-ap-southeast-2.amazonaws.com/geg-siad-web-app/images/1571186132-UTS_Logo_Full_Version_Primary_RGB_BLK.png" alt="Unviversity Technology Sydney logo"></a></li>
-        
-                            <li><a href="https://www.uthm.edu.my/" target="_blank" class="sblogos__link"><img class="sblogos__img" src="https://www.uthm.edu.my/zh/downloads/uthm-official-logo/26-logo-rasmi-uthm/file" alt="Unviversitas Tun Hussein Onn Malaysia logo"></a></li>
-        
-                            <li><a href="https://uplb.edu.ph/" target="_blank" class="sblogos__link"><img class="sblogos__img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYgv1lmkjoZBae9aPRo9lze6w1hCPkQEOEUA&amp;s" alt="University of the Philippines Los Baños logo"></a></li>
-        
-                            <li><a href="https://www.utwente.nl/en/itc/" target="_blank" class="sblogos__link"><img class="sblogos__img" src="./img/itc_twente.png" alt="University of Twente logo"></a></li>
-        
-                            <li><a href="https://genau.id/" target="_blank" class="sblogos__link"><img class="sblogos__img" src="./img/genau.jpg" alt="Yayasan Genau Indonesia logo"></a></li>
-        
-                            <li><a href="https://igf-sequencing.com/" target="_blank" class="sblogos__link"><img class="sblogos__img" src="./img/logo-long.png" alt="Integrated Genome Factory logo"></a></li>
-        
-                            <li><a href="https://www.instagram.com/gen.kreativ/" target="_blank" class="sblogos__link"><img class="sblogos__img" src="./img/genkre_logo.png" alt="Gen Kreativ Production logo"></a></li>
-        
-                            <li><a href="https://www.instagram.com/palawa.tour/" target="_blank" class="sblogos__link"><img class="sblogos__img" src="./img/palawa-group-horizontal.png" alt="CV Palawa Mitra Sejahtera logo"></a></li>
-        
-      </ul>
-    </div>
+  
+    <h2 id="collaborators">Collaborators</h2>
+    <ul>
+      
+        <li><a href="https://ugm.ac.id/" target="_blank" class="sblogos__link"><img class="sblogos__img" src="https://rekammedis.sv.ugm.ac.id/wp-content/uploads/sites/780/2020/10/Logo-Tengah-Stack-Up-1-1024x1024.jpg" alt="Universitas Gadjah Mada logo"></a></li>
+      
+        <li><a href="https://www.anu.edu.au/" target="_blank" class="sblogos__link"><img class="sblogos__img" src="https://www.logo.wine/a/logo/Australian_National_University/Australian_National_University-Logo.wine.svg" alt="Australian National University logo"></a></li>
+      
+        <li><a href="https://www.uts.edu.au/" target="_blank" class="sblogos__link"><img class="sblogos__img" src="https://s3-ap-southeast-2.amazonaws.com/geg-siad-web-app/images/1571186132-UTS_Logo_Full_Version_Primary_RGB_BLK.png" alt="University of Technology Sydney logo"></a></li>
+      
+        <li><a href="https://www.uthm.edu.my/" target="_blank" class="sblogos__link"><img class="sblogos__img" src="https://www.uthm.edu.my/zh/downloads/uthm-official-logo/26-logo-rasmi-uthm/file" alt="Universiti Tun Hussein Onn Malaysia logo"></a></li>
+      
+        <li><a href="https://uplb.edu.ph/" target="_blank" class="sblogos__link"><img class="sblogos__img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn=ANd9GcTYgv1lmkjoZBae9aPRo9lze6w1hCPkQEOEUA&amp;s" alt="University of the Philippines Los Baños logo"></a></li>
+      
+        <li><a href="https://www.utwente.nl/en/itc/" target="_blank" class="sblogos__link"><img class="sblogos__img" src="./img/itc_twente.png" alt="University of Twente logo"></a></li>
+      
+        <li><a href="https://genau.id/" target="_blank" class="sblogos__link"><img class="sblogos__img" src="./img/genau.jpg" alt="Yayasan Genau Indonesia logo"></a></li>
+      
+    </ul>
+  
+    <h2 id="media-partners">Media Partners</h2>
+    <ul>
+      
+        <li><a href="https://igf-sequencing.com/" target="_blank" class="sblogos__link"><img class="sblogos__img" src="./img/logo-long.png" alt="Integrated Genome Factory logo"></a></li>
+      
+        <li><a href="https://www.instagram.com/gen.kreativ/" target="_blank" class="sblogos__link"><img class="sblogos__img" src="./img/genkre_logo.png" alt="Gen Kreativ Production logo"></a></li>
+      
+    </ul>
+  
+    <h2 id="travel-partner">Travel Partner</h2>
+    <ul>
+      
+        <li><a href="https://www.instagram.com/palawa.tour/" target="_blank" class="sblogos__link"><img class="sblogos__img" src="./img/palawa-group-horizontal.png" alt="CV Palawa Mitra Sejahtera logo"></a></li>
+      
+    </ul>
+  
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
 </div>
 </div>
 
 
-</div>
 
 
 
@@ -801,7 +813,7 @@ window.Quarto = {
     }
   });
   </script>
- <!-- /content -->
+</div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
