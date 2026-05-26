@@ -1,11 +1,12 @@
 ```{=html}
 <div class='sponsorsFooter'>
-      <h1 id="sponsorTitle" data-default-title="<strong>Our Sponsors</strong>"><strong>Our Sponsor and Partners</strong></h1>
-      <ul>
-        <% for (const item of items) { %>
-							<li><a href="<%- item.href %>" target="_blank" class="sblogos__link"><img class="sblogos__img" src="<%- item.thumbnail %>" alt="<%= item.name %> logo" /></a></li>
-        <% } %>
-      </ul>
-    </div>
+  <% for (const category of items) { %>
+    <h2 id="<%- category.name.toLowerCase().replace(/\s+/g, '-') %>"><%- category.name %></h2>
+    <ul>
+      <% for (const item of category.items) { %>
+        <li><a href="<%- item.href %>" target="_blank" class="sblogos__link"><img class="sblogos__img" src="<%- item.thumbnail %>" alt="<%= item.name %> logo" /></a></li>
+      <% } %>
+    </ul>
+  <% } %>
 </div>
 ```
