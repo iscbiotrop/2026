@@ -437,19 +437,25 @@ footer.footer .nav-footer, #quarto-header nav {
   list-style: none;
   padding: 0;
   margin: 4px 0 0 0;
-  display: flex;
+  display: flex !important;
+  flex-direction: row !important;
   justify-content: center;
   align-items: center;
   gap: 8px;
   flex-shrink: 0;
 }
 
+.speaker-socials li,
 .speaker-socials .socialIcons {
-  margin: 0;
-  padding: 0;
-  display: inline-flex;
-  align-items: center;
+  display: inline-flex !important;
+  flex-direction: row !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  list-style: none !important;
+  vertical-align: middle !important;
 }
+
+
 
 .speaker-socials .socialIcons img {
   width: 20px;
