@@ -37,6 +37,8 @@ website:
         href: speakers/
       - text: Register
         href: register.qmd
+      #- text: Venue & Travel
+      #  href: venue/venue/
       #- text: Participation
       #  menu: 
           #- text: Code of conduct

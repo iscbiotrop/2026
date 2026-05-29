@@ -42,7 +42,7 @@ gantt
     Biodiversity Summit & Closing           :2026-07-18, 1d
 
     section Satellite Event
-    INCULS :2026-06-29, 4d
+    INCULS :2026-06-29, 5d
     Ramban Rimba with Genau Foundation :2026-07-21, 3d
 ```
 

@@ -27,6 +27,13 @@
       country: au
       social: 
       - website: https://researchportalplus.anu.edu.au/en/persons/ashley-jones/
+    - name: Cania Citta
+      affiliation: Malaka Project
+      href: youtube.com/@malakaprojectid
+      thumbnail: img/cania.jpg
+      country: id
+      social:
+      - website: http://youtube.com/@malakaprojectid
     - name: Citra Septiani
       affiliation: World Resources Institute Indonesia
       href: https://wri-indonesia.org/id/profile/citra-septiani
