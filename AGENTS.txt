@@ -1,0 +1,51 @@
+# AGENTS.md — satRdays Quarto Template (ISC Biotrop 2026)
+
+## Quick commands
+
+| Task | Command |
+|------|---------|
+| Preview locally | `quarto preview` (serves on port **4200**) |
+| Build site | `quarto render` (output → `_site/`) |
+| Deploy | Push to `main` → GitHub Actions deploys `_site/` to `cf-pages` branch |
+
+## Architecture
+
+- **Engine**: Quarto static website. No package manager, no lint, no tests.
+- **Config**: `_quarto.yml` — title, navbar, theme, output-dir.
+- **Pages**: `.qmd` files. Content lives here.
+- **Data-driven listings**: `.yml` data files + `.ejs` templates, wired via `listing:` metadata in `.qmd` frontmatter.
+  - Speakers: `speakers/speakers.yml` → `speakers/speakers.ejs`
+  - Sponsors: `about/sponsors/sponsors.yml` → `about/sponsors/sponsors.ejs`
+  - Countdown: inline data in `index.qmd` → `countdown.ejs`
+- **Styling**: `css/styles.scss` — SCSS variables under `/*-- scss:defaults --*/` control theme colors, banner images, and positions.
+- **Images**: `img/` directory. Speaker thumbnails referenced by absolute URL or relative path in `.yml` data files.
+
+## Gotchas
+
+- **Output dir is `_site/`, not `docs/`** — the README says `docs/` but `_quarto.yml` sets `output-dir: _site`. Trust `_quarto.yml`.
+- **Menu → directory mismatch**: `_quarto.yml` line 41 references `venue/venue/` but the actual directory is `travel/venue/`. Fix the menu href or move files.
+- **`quarto preview` port**: Configured to `4200` in `_quarto.yml`. If you change it, update CI or local docs accordingly.
+- **`quarto preview` browser**: Set to `false` — it won't auto-open a browser.
+- **`_quarto.yml` sidebar**: Set to `false`; navigation is navbar-only.
+- **CI deploys to `cf-pages` branch**, not `gh-pages`. Don't expect `gh-pages`.
+- **EJS templates** are Quarto listing templates (not Express). They receive fields from the `.yml` data files. Not all fields need to be present per record — missing social links are fine.
+- **`img/user.png`** is used as a placeholder thumbnail for speakers without real photos.
+- **`countdown.ejs`** is a root-level file (not under `js/`). The JS that powers it lives in `js/countdown.js`.
+
+## Adding a speaker or sponsor
+
+1. Add entry to the relevant `.yml` file (`speakers/speakers.yml` or `about/sponsors/sponsors.yml`).
+2. Follow the existing YAML structure — only required fields will render; optional ones (social links, `href`) can be omitted.
+3. Place thumbnail images in `img/` (or use absolute URLs).
+4. Render (`quarto render`) and check `_site/`.
+
+## Adding a new page
+
+1. Create a `.qmd` file (or `folder/index.qmd` for nested routes).
+2. Add frontmatter `pagetitle:` and any `listing:` blocks.
+3. Add a menu entry in `_quarto.yml` under `website.navbar.right`.
+4. Render and verify.
+
+## Style changes
+
+Edit `$primary`, `$body-bg`, `$banner-img`, etc. in `css/styles.scss` under `/*-- scss:defaults --*/`. These variables cascade into the Bootstrap-based theme.
