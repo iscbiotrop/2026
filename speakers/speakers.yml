@@ -15,7 +15,7 @@
     - name: Amelia Nugrahaningrum
       affiliation: Yayasan Genau Indonesia
       href: https://genau.id/
-      thumbnail: https://genau.id/_next/image?url=%2Four-team%2Famelia.png&w=384&q=75
+      thumbnail: img/amel.png
       country: id
       social:
       - website: https://genau.id/
@@ -60,7 +60,7 @@
     - name: Muhammad Abdul Latiff bin Abu Bakar
       affiliation: Universiti Tun Hussein Onn Malaysia (UTHM)
       href: https://community.uthm.edu.my/latiff
-      thumbnail: https://fast.uthm.edu.my/wp-content/themes/yootheme/cache/bb/PROF.-MADYA-Ts.-Dr.-MUHAMMAD-ABDUL-LATIFF-BIN-ABU-BAKAR-scaled-bbf0ef26.webp
+      thumbnail: img/abdul.jpg
       country: my
       social: 
       - website: https://community.uthm.edu.my/latiff
@@ -71,10 +71,17 @@
       country: id
       social: 
       - website: https://acadstaff.ugm.ac.id/Jamal
+    - name: Rury Eprilurahman
+      affiliation: Universitas Gadjah Mada (UGM)
+      href: https://acadstaff.ugm.ac.id/MTk4MTA0MjEyMDA1MDExMDA4
+      thumbnail: img/rury.jpg
+      country: id
+      social: 
+      - website: https://acadstaff.ugm.ac.id/MTk4MTA0MjEyMDA1MDExMDA4
     - name: Sabhrina Gita Aninta
       affiliation: Copenhagen University
       href: https://researchprofiles.ku.dk/en/persons/sabhrina-gita-aninta/
-      thumbnail: img/user.png
+      thumbnail: img/sabhrina.png
       country: dk
       social: 
       - website: https://researchprofiles.ku.dk/en/persons/sabhrina-gita-aninta/
@@ -85,10 +92,24 @@
       country: nl
       social: 
       - linkedin: https://www.linkedin.com/in/thomas-groen-%F0%9F%9F%A5-2668105/
+    - name: Thoriq Teja Samudra
+      affiliation: Universitas Gadjah Mada (UGM)
+      href: https://acadstaff.ugm.ac.id/thoriq.tsamudra
+      thumbnail: img/thoriq.jpg
+      country: id
+      social: 
+      - website: https://acadstaff.ugm.ac.id/thoriq.tsamudra
     - name: Worarat Kruasuwan
       affiliation: Mahidol University
       href: https://www.linkedin.com/in/worarat-kruasuwan-98b92497/
       thumbnail: img/Worarat.jpg
+      country: th
+      social: 
+      - linkedin: https://www.linkedin.com/in/worarat-kruasuwan-98b92497/
+    - name: Arissara Tubtimyoy
+      affiliation: Mahidol University
+      href: https://www.linkedin.com/in/arissara-tubtimyoy-87a5b9205/
+      thumbnail: img/arisara.jpg
       country: th
       social: 
       - linkedin: https://www.linkedin.com/in/worarat-kruasuwan-98b92497/
