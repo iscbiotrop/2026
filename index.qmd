@@ -25,9 +25,9 @@ listing:
 
 #### @ Universitas Gadjah Mada, Yogyakarta, Indonesia
 
-[👉 International Registration](/register.html#international-and-asean-students){.btn .btn-primary target="_blank"}
+[👉 Online Registration](/register.html#international-and-asean-students){.btn .btn-primary target="_blank"}
 
-[👉 Local Registration](/register.html#indonesian-participants){.btn .btn-primary target="_blank"}
+[👉 Summit Registration](/register.html#biodiversity-summit){.btn .btn-primary target="_blank"}
 
 :::
 
@@ -58,7 +58,7 @@ By integrating genomic and spatial data, the course empowers participants to pro
 :::
 
 ::: {.g-col-6 .img_margin}
-![](/img/poster_extension.jpeg){.img_block width="100%"}
+![](/img/online-poster.jpeg){.img_block width="100%"}
 
 ::: {.text-center}
 [👉 Main Program](/program/schedule/){.btn .btn-primary target="_blank"}
