@@ -24,6 +24,9 @@
     - name: Malaka
       href: https://www.youtube.com/@malakaprojectid
       thumbnail: /about/sponsors/img/malaka.png
+    - name: Aksara
+      href: https://aksara-indonesia.com/
+      thumbnail: /about/sponsors/img/aksara.png
 - name: "Media Partners"
   items:
     - name: Integrated Genome Factory
