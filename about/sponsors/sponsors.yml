@@ -43,12 +43,15 @@
     - name: LPDP
       href: https://lpdp.kemenkeu.go.id/
       thumbnail: /about/sponsors/img/lpdp.png
+    - name: Australian Government
+      href: https://www.dfat.gov.au/people-to-people/new-colombo-plan
+      thumbnail: /about/sponsors/img/aussie.png
+    - name: New Colombo Plan
+      href: https://www.dfat.gov.au/people-to-people/new-colombo-plan
+      thumbnail: /about/sponsors/img/ncp.png
     - name: CV Palawa Mitra Sejahtera
       href: https://www.instagram.com/palawa.tour/
       thumbnail: /about/sponsors/img/palawa.png
     - name: PT Dynata Inovasi Corpolab
       href: https://www.dynata.id/#Home
       thumbnail: /about/sponsors/img/dynata.png
-    #- name: Oxford Nanopore Technologies
-    #  href: https://nanoporetech.com/
-    #  thumbnail: /about/sponsors/img/ont.png
