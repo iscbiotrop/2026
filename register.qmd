@@ -141,8 +141,8 @@ graph LR
 ### Online Participants
 
 1. Online participants are required to fill in the [registration form](https://forms.gle/DGVmpCk3BpYMxADR6).
-2. Once submitted, the application will be processed for review.
-3. Payment details will be provided via email after the selection process.
+2. Payment details are provided at the end of the form. 
+3. Participants who register after 1 July 2026 will receive access to the Course Orientation recording after their payment has been confirmed.
 
 :::{.text-center}
 [👉 Registration Form](https://forms.gle/DGVmpCk3BpYMxADR6){.btn .btn-primary target="_blank"}

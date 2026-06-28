@@ -19,7 +19,7 @@ gantt
     axisFormat  %d %b
 
     section Orientation
-    Course Orientation (Online)        :2026-06-29, 1d
+    Course Orientation (Online)        :2026-07-01, 1d
 
     section Pre-Assignments
     Intro Video Submission             :milestone, 2026-07-05, 1d
