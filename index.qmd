@@ -25,7 +25,7 @@ listing:
 
 #### @ Universitas Gadjah Mada, Yogyakarta, Indonesia
 
-[👉 Online Registration](/register.html#international-and-asean-students){.btn .btn-primary target="_blank"}
+[👉 Online Registration](/register.html#online-participants){.btn .btn-primary target="_blank"}
 
 [👉 Summit Registration](/register.html#biodiversity-summit){.btn .btn-primary target="_blank"}
 
