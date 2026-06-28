@@ -53,7 +53,7 @@ For early inquiries or to express your interest, feel free to contact us at: [ad
 | <small>Indonesian Students</small> | <small>IDR 2.000.000,-</small> | | | <small>IDR 2.000.000,-</small> |
 | <small>Online Session Only</small> | <small>50 USD</small> | | <small>50 USD</small> | <small>IDR 850.000,-</small> |
 | <small>[**NCP 4 Weeks Course**](/program/ncp){target="_blank"}</small> | <small>3000 AUD</small> | <small>included</small> | <small>3000 AUD</small> | <small>IDR 37.783.950,-</small> |
-| <small>[**Biodiversity Summit**](/program/summit){target="_blank"}</small> | <small>IDR 319.000,- (Early Bird) </small> | | | <small>IDR 319.000,-</small> |
+| <small>[**Biodiversity Summit**](/program/summit){target="_blank"}</small> | <small>IDR 359.000,- </small> | | | <small>IDR 359.000,-</small> |
 
 : {.striped .hover}
 
@@ -91,7 +91,7 @@ graph LR
 | <small>~~International and ASEAN Students (Late Registration)~~</small> | <small>~~**8 June 2026**~~</small> | <small>_Registration will be closed when the quota is reached_</small> |
 | <small>~~Local Students~~</small>| <small>~~**8 June 2026**~~</small> |  |
 | <small>~~Online Participants~~</small>| <small>~~**15 June 2026**~~</small> |  |
-| <small>Online Participants (Late Registration)</small>| <small>**24 June 2026**</small> |  |
+| <small>Online Participants (Late Registration)</small>| <small>**4 July 2026**</small> |  |
 | <small>Biodiversity Summit</small>| <small>**11 July 2026**</small> | <small>_Registration will be closed when the quota is reached_</small> |
 : {.striped .hover}
 :::
@@ -100,7 +100,7 @@ graph LR
 ::: {.g-col-12 .full_text_block}
 ### International and ASEAN students
 
-1. All international participants (**online** and **onsite**) must first register via Office of International Affairs (OIA) [**Admission site**](https://admissions.ugm.ac.id/enrollment/public/) to get Letter of Offer (includes billing details) and Letter of Acceptance issued by the OIA of Universitas Gadjah Mada.
+1. All international participants must first register via Office of International Affairs (OIA) [**Admission site**](https://admissions.ugm.ac.id/enrollment/public/) to get Letter of Offer (includes billing details) and Letter of Acceptance issued by the OIA of Universitas Gadjah Mada.
 2. Required documents for registration are:
     - Color scanned Passport (`.JPG` max 2MB)
     - Pass photo (`.pdf` max 2MB) (white background, the shoulder must appear in the photo)
@@ -131,6 +131,21 @@ graph LR
 
 :::{.text-center}
 [👉 Registration Form](http://ugm.id/RegistrationISC2026Local){.btn .btn-primary target="_blank"}
+:::
+
+:::
+
+<div></div>
+
+::: {.g-col-12 .full_text_block}
+### Online Participants
+
+1. Online participants are required to fill in the [registration form](https://forms.gle/DGVmpCk3BpYMxADR6).
+2. Once submitted, the application will be processed for review.
+3. Payment details will be provided via email after the selection process.
+
+:::{.text-center}
+[👉 Registration Form](https://forms.gle/DGVmpCk3BpYMxADR6){.btn .btn-primary target="_blank"}
 :::
 
 :::
