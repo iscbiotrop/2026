@@ -71,6 +71,20 @@
       country: id
       social: 
       - website: https://acadstaff.ugm.ac.id/Jamal
+    - name: Mohammad Ali Imron
+      affiliation: WWF-Indonesia
+      href: https://wwf.id/id/about-us/our-leadership
+      thumbnail: img/ali_imron.jpg
+      country: id
+      social: 
+      - website: https://wwf.id/id/about-us/our-leadership
+    - name: Pramaditya Wicaksono
+      affiliation: Universitas Gadjah Mada (UGM)
+      href: https://acadstaff.ugm.ac.id/Prama
+      thumbnail: img/pramaditya.jpg
+      country: id
+      social: 
+      - website: https://acadstaff.ugm.ac.id/Prama
     - name: Rury Eprilurahman
       affiliation: Universitas Gadjah Mada (UGM)
       href: https://acadstaff.ugm.ac.id/MTk4MTA0MjEyMDA1MDExMDA4
