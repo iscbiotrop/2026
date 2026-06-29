@@ -57,6 +57,13 @@
       - website: https://www.matinnu.org/
       - github: https://github.com/matinnuhamunada
       - linkedin: https://www.linkedin.com/in/matin-nuhamunada-0256a368/
+    - name: Mirza Hanif Al Falah
+      affiliation: Universitas Gadjah Mada (UGM)
+      href: https://acadstaff.ugm.ac.id/mirzahanif
+      thumbnail: img/mirza.png
+      country: id
+      social: 
+      - website: https://acadstaff.ugm.ac.id/mirzahanif
     - name: Muhammad Abdul Latiff bin Abu Bakar
       affiliation: Universiti Tun Hussein Onn Malaysia (UTHM)
       href: https://community.uthm.edu.my/latiff
