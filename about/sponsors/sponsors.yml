@@ -1,4 +1,4 @@
-- name: "Collaborators"
+- name: "Speakers and Student Collaborators"
   items:
     - name: Universitas Gadjah Mada
       href: https://ugm.ac.id/
@@ -42,6 +42,9 @@
     - name: WRI Indonesia
       href: https://wri-indonesia.org/en
       thumbnail: /about/sponsors/img/wri_indonesia.png
+    - name: WWF Indonesia
+      href: https://www.wwf.id/id
+      thumbnail: /about/sponsors/img/wwf-id.png
 - name: "Media Partners"
   items:
     - name: Integrated Genome Factory
