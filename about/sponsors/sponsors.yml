@@ -18,6 +18,18 @@
     - name: University of Twente
       href: https://www.utwente.nl/en/itc/
       thumbnail: /about/sponsors/img/twente.png
+    - name: Mahidol University
+      href: https://mahidol.ac.th/en/
+      thumbnail: /about/sponsors/img/mahidol.png
+    - name: Universiti Malaysia Kelantan
+      href: https://www.umk.edu.my/en/
+      thumbnail: /about/sponsors/img/UMK.png
+    - name: Leiden University
+      href: https://www.universiteitleiden.nl/en
+      thumbnail: /about/sponsors/img/leiden.png
+    - name: katsetsart University
+      href: https://www.ku.ac.th/en
+      thumbnail: /about/sponsors/img/katsetsart.png
     - name: Yayasan Genau Indonesia
       href: https://genau.id/
       thumbnail: /about/sponsors/img/genau.png
@@ -27,6 +39,9 @@
     - name: Aksara
       href: https://aksara-indonesia.com/
       thumbnail: /about/sponsors/img/aksara.png
+    - name: WRI Indonesia
+      href: https://wri-indonesia.org/en
+      thumbnail: /about/sponsors/img/wri_indonesia.png
 - name: "Media Partners"
   items:
     - name: Integrated Genome Factory
