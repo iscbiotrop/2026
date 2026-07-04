@@ -57,25 +57,149 @@ Prior to the start of the course, participants are assigned several tasks:
 
 ### Pre-Course (Online Hybrid) | 6 - 9 July 2026
 
-| Day | Date | Session | Topic | Activities |
-|---|---|----|-------|-----------|
-| Day 1 | Mon, 6/7/26 | Hybrid | Tropical Biodiversity in the Data Age | Lectures on biodiversity challenges, data types, and course overview |
-| Day 2 | Tue, 7/7/26 | Hybrid | Study Design, Sampling, & Metadata | Sampling design, metadata standards, ethics and mini exercise |
-| Day 3 | Wed, 8/7/26 | Hybrid | Genomics for Biodiversity Assesment | Bioinformatics practicals on metabarcoding, metagenomics, and biodiversity analysis |
-| Day 4 | Thu, 9/7/26 | Hybrid | From Data to Impact | Bioprospecting, GIS data analysis, policy case studies |
+#### Monday, July 6, 2026
+
+| Time | Session / Activity | Speaker / Instructor | Location | Activity Type |
+|---|---|---|---|---|
+| **08.30 - 09.00** | Registration |  |  |  |
+| **09.00 - 09.15** | Welcoming Remarks | Prof. Dr. Eko Agus Suyono, M.App.Sc. - UGM |  |  |
+| **09.15 - 09.30** | Course Introduction | Matin Nuhamunada, M.Sc., Ph.D. - UGM |  | Lectures |
+| **09.30 - 10.45** | Introduction to Biodiversity in South East Asia Region | Assoc. Prof. Alona Cuevas Linatoc - UPLB |  | Lectures |
+| **10.45 - 11.00** | Break |  |  |  |
+| **11.00 - 12.00** | Study Design, Sampling & Metadata in Biodiversity Research | Dr. Eng. Thoriq Teja Samudra, M.Sc. - UGM |  | Lectures |
+| **12.00 - 13.00** | Break & Lunch |  |  |  |
+| **13.00 - 14.00** | Introduction to iNaturalist and Citizen Science Effort to Map Biodiversity | Dr. Rury Eprilurahman, M.Sc. - UGM |  | Lectures |
+| **14.00 - 15.00** | Hands-On Practice with iNaturalist | Dr. Rury Eprilurahman, M.Sc. - UGM |  | Laboratory |
+| *Flexible* | Quiz 1 |  |  | Quiz |
+: {.striped .hover}
+
+#### Tuesday, July 7, 2026
+
+| Time | Session / Activity | Speaker / Instructor | Location | Activity Type |
+|---|---|---|---|---|
+| **08.30 - 09.00** | Registration |  |  |  |
+| **09.00 - 10.00** | Tropical Biodiversity in a Changing Climate | Dr. Mirza Hanif Al Falah, M.Ling - UGM |  | Lectures |
+| **10.00 - 11.00** | Tropical Biodiversity in the Data Age | Matin Nuhamunada, M.Sc., Ph.D. - UGM |  | Lectures |
+| **11.00 - 12.00** | Introduction to Basic Skills in Bioinformatics | Integrated Genome Factory |  | Laboratory |
+| **12.00 - 13.00** | Break & Lunch |  |  |  |
+| **13.00 - 14.30** | Genomics for Conservation | Prof. Herman Spaink - Leiden University |  | Lectures |
+| **14.30 - 16.00** | The Importance of Biodiversity Conservation and Management | Prof. Alice Hughes - The University of Melbourne |  | Lectures |
+| *Flexible* | Quiz 2 |  |  | Quiz |
+: {.striped .hover}
+
+#### Wednesday, July 8, 2026
+
+| Time | Session / Activity | Speaker / Instructor | Location | Activity Type |
+|---|---|---|---|---|
+| **08.30 - 09.00** | Registration |  |  |  |
+| **09.00 - 10.30** | GIS for Biodiversity Mapping: Part 1 | Prof. Dr. Pramaditya Wicaksono, M.Sc. - UGM |  | Lectures |
+| **10.30 - 10.45** | Coffee Break |  |  |  |
+| **10.45 - 12.00** | The Role of Sequencing Centers in SE Asia | Worarat Kruasuwan, PhD - Mahidol University |  | Lectures |
+| **12.00 - 13.00** | Break & Lunch |  |  |  |
+| **13.00 - 15.00** | Introduction to Metabarcoding Analysis with EPI2ME | Arissara Tubtimoy, M.Sc. - Mahidol University |  | Laboratory |
+| *Flexible* | Quiz 3 |  |  | Quiz |
+: {.striped .hover}
+
+#### Thursday, July 9, 2026
+
+| Time | Session / Activity | Speaker / Instructor | Location | Activity Type |
+|---|---|---|---|---|
+| **08.30 - 09.00** | Registration |  |  |  |
+| **09.00 - 10.15** | Genomics for Biodiversity Assessment | Prof. Madya Ts. Dr. Abdul Latiff - UTHM |  | Lectures |
+| **10.15 - 10.30** | Break | | | |
+| **10.30 - 12.00** | Computer Lab - Basic Concept in GIS Analysis | Dr. Ir. Yan Restu Freski, M.Eng. - UGM |  | Laboratory |
+| **11.00 - 12.00** | Break & Lunch |  |  |  |
+| **13.00 - 14.30** | GIS for Biodiversity Mapping: Part 2 | Prof. Thomas Groen - ITC Twente |  | Lectures |
+| **14.30 - 16.00** | The Importance of Biodiversity Conservation and Management |  |  | Group Discussion |
+| *Flexible* | Quiz 4 & Independent Study |  |  | Quiz / Study |
 : {.striped .hover}
 
 ### Onsite Course | 13 - 19 July 2026
 
-| Day | Date | Session | Topic | Activities |
-|---|---|----|-------|-----------|
-| Optional Event | Sun, 12/7/26 | Welcoming Dinner | Greetings and getting to know each other | |
-| Day 5 | Mon, 13/7/26 | Lab | Welcoming Ceremony & Field Sampling Preparation | Opening session, course briefing, introduction to field and safety protocols |
-| Day 6 | Tue, 14/7/26 | Field | Field Sampling Day 1 (Terrestrial Ecosystems) | Terrestrial sampling (soil, plants, insects), environmental measurements, GIS data acquisition using drones |
-| Day 7 | Wed, 15/7/26 | Field | Field Sampling Day 2 (Coastal/Intertidal) | Intertidal sampling, water sampling, ecological observations, metadata recording |
-| Day 8 | Thu, 16/7/26 | Lab | From Sample to DNA | DNA extraction, quality control (QC), Library Preparation for Next-Generation Sequencing |
-| Day 9 | Fri, 17/7/26 | Computer | From Genomes to Landscapes | Sequence data processing, integrating biodiversity data with GIS and spatial mapping |
-| Day 10 | Sat, 18/7/26 | Biodiversity Summit | From Data to Decisions | Group presentations, translating results into policy recommendations, discussion & closing |
+#### Monday, July 13, 2026
+
+| Time | Session / Activity | Speaker / Instructor | Location | Activity Type |
+|---|---|---|---|---|
+| **08.00 - 09.15** | Opening Remarks and Welcoming Ceremony | Prof. Dr. Eko Agus Suyono, M.App.Sc. |  | Lectures |
+| **09.15 - 10.30** | iDNA for Biodiversity Assessment | Prof. Alexander Maier - ANU |  | Lectures |
+| **10.30 - 10.45** | Break |  |  |  |
+| **10.45 - 12.00** | From Sample to DNA | Dr. Ashley Jones - ANU |  | Discussion |
+| **12.00 - 13.00** | Break & Lunch |  |  |  |
+| **13.00 - 13.45** | Field Trip Orientation | Dr. Eng. Thoriq Teja Samudra, M.Sc. & Dr. Ir. Yan Restu Freski, M.Eng. |  | Discussion |
+| **13.45 - 16.00** | Hands On Taxonomy with Study Clubs | Herpetology Study Club, Marine Biology Study Club, Entomology Study Club, Biology Curator Program |  | Laboratory |
+| *Flexible* | Quiz 5 & Independent Study |  |  | Quiz / Study |
+: {.striped .hover}
+
+#### Tuesday, July 14, 2026
+
+| Time | Session / Activity | Speaker / Instructor | Location | Activity Type |
+|---|---|---|---|---|
+| **07.00 - 08.00** | Pre-departure orientation | Mukhlish Jamal Musa Holle, S.Si., M.Env.Sc., D.Phil. |  | Field Study |
+| **08.00 - 09.30** | Bus to Cemoro Sewu (Bayat, Klaten) |  |  |  |
+| **09.30 - 10.30** | Drone Survey Hands-On Session | Dr. Ir. Yan Restu Freski & Aksara Team |  | Field Study |
+| **10.30 - 11.30** | Biodiversity Exploration | M. J. M. Holle, D.Phil & Dr. Rury Eprilurahman |  | Field Study |
+| **11.30 - 12.30** | Break & Field Lunch |  |  |  |
+| **12.30 - 15.30** | Fieldwork Exploration: Session 2 | M. J. M. Holle, D.Phil & Dr. Rury Eprilurahman |  | Field Study |
+| **15.30 - 17.00** | Bus to Fieldwork Accommodation | Dea Lokha & Santika Hotel |  | Field Study |
+| **17.00 - 19.00** | Break |  |  |  |
+| **19.00 - 20.00** | Socializing Session: BBQ, Games and FGD | Project Officer and Facilitators |  |  |
+| *Flexible* | Independent Study |  |  | Independent Study |
+: {.striped .hover}
+
+#### Wednesday, July 15, 2026
+
+| Time | Session / Activity | Speaker / Instructor | Location | Activity Type |
+|---|---|---|---|---|
+| **08.30 - 09.30** | Departure to Porok Beach |  |  |  |
+| **09.30 - 10.30** | Student Presentation - The Importance of Biodiversity Conservation and Management |  |  | Discussion |
+| **10.30 - 11.30** | Fieldwork Preparation & Safety Orientation | Dr. Eng. Thoriq Teja Samudra |  | Lectures |
+| **11.30 - 12.30** | Break & Field Lunch |  |  |  |
+| **12.30 - 16.30** | Field Sampling in Porok Beach | Dr. Rury Eprilurahman & Dr. Eng. Thoriq |  | Field Study |
+| **13.30 - 15.30** | Drone Mapping | Dr. Ir. Yan Restu Freski & Aksara |  |  |
+| **15.30 - 16.30** | Sample Preservation (optional) |  |  | Field Study |
+| **17.00 - 19.00** | Transit back to UGM Campus |  |  |  |
+| *Flexible* | Independent Study |  |  | Independent Study |
+: {.striped .hover}
+
+#### Thursday, July 16, 2026
+
+| Time | Session / Activity | Speaker / Instructor | Location | Activity Type |
+|---|---|---|---|---|
+| **09.00 - 10.00** | Lab Orientation | Integrated Genome Factory - UGM |  | Lectures |
+| **10.00 - 12.00** | DNA Extraction Lab | Integrated Genome Factory - UGM |  | Laboratory |
+| **12.00 - 13.00** | Break & Lunch |  |  |  |
+| **13.00 - 16.00** | Sequencing LibPrep Demo | Integrated Genome Factory - UGM |  | Laboratory |
+| **16.00 - 17.00** | Reflection and Wrap Up | Matin Nuhamunada, M.Sc., Ph.D. |  | Lectures |
+| *Flexible* | Quiz 6 & Independent Study |  |  | Quiz / Study |
+: {.striped .hover}
+
+#### Friday, July 17, 2026
+
+| Time | Session / Activity | Speaker / Instructor | Location | Activity Type |
+|---|---|---|---|---|
+| **08.00 - 09.15** | Genomics for Conservation: Part 2 | Shabrina Gita Aninta, Ph.D. - Copenhagen University |  | Lectures |
+| **09.15 - 09.30** | Break |  |  |  |
+| **09.30 - 10.45** | From Genomes to Landscapes | Dr. Noor Janatun Naim Jemali - UMK |  |  |
+| **11.30 - 13.00** | Break & Friday Prayers |  |  |  |
+| **13.00 - 15.00** | Hands On Analysis with Google Earth Engine | Aksara Lab |  | Laboratory |
+| *Flexible* | Quiz 7 & Independent Study |  |  | Quiz / Study |
+: {.striped .hover}
+
+#### Saturday, July 18, 2026 - Biodiversity Summit: From Data to Decisions
+
+| Time | Session / Activity | Speaker / Instructor | Location | Activity Type |
+|---|---|---|---|---|
+| **08.00 - 08.45** | From Data to Decisions | Dr. Muhammad Ali Imron - WWF Indonesia |  | Lectures |
+| **08.50 - 09.35** | Science Communication | Cania Citta - Malaka |  | Discussion |
+| **09.40 - 10.25** | Conservation Best Practice | Amelia Nugrahaningrum - Genau Foundation |  | Presentation |
+| **10.30 - 11.15** | WRI Project Session | Citra Septiani - World Resources Institute |  | Presentation |
+| **11.20 - 12.05** | Panel Discussion | Moderator |  | Discussion |
+| **12.10 - 12.45** | Q&A Session | Moderator |  | Discussion |
+| **12.50 - 13.50** | Break & Lunch |  |  | Presentation |
+| **13.50 - 15.50** | Youth Biodiversity Summit Presentations | Moderator |  | Presentation |
+| **15.50 - 16.50** | Essay Presentations | MC |  | Presentation |
+| **16.50 - 17.00** | Winner Announcement & Closing Ceremony | MC |  | Study |
+| *Flexible* | Course Evaluation |  |  | Quiz |
 : {.striped .hover}
 
 ### Post Course assignments
