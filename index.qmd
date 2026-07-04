@@ -58,7 +58,7 @@ By integrating genomic and spatial data, the course empowers participants to pro
 :::
 
 ::: {.g-col-6 .img_margin}
-![](/img/online-poster.jpeg){.img_block width="100%"}
+![](/img/summit-poster.jpeg){.img_block width="100%"}
 
 ::: {.text-center}
 [👉 Main Program](/program/schedule/){.btn .btn-primary target="_blank"}

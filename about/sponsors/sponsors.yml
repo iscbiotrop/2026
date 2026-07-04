@@ -24,12 +24,18 @@
     - name: Universiti Malaysia Kelantan
       href: https://www.umk.edu.my/en/
       thumbnail: /about/sponsors/img/UMK.png
+    - name: Copenhagen University
+      href: https://www.ku.dk/en
+      thumbnail: /about/sponsors/img/copenhagen.png
     - name: Leiden University
       href: https://www.universiteitleiden.nl/en
       thumbnail: /about/sponsors/img/leiden.png
-    - name: katsetsart University
+    - name: Katsetsart University
       href: https://www.ku.ac.th/en
       thumbnail: /about/sponsors/img/katsetsart.png
+    - name: The University of Melbourne
+      href: https://www.unimelb.edu.au/
+      thumbnail: /about/sponsors/img/unimelb.png
     - name: Yayasan Genau Indonesia
       href: https://genau.id/
       thumbnail: /about/sponsors/img/genau.png

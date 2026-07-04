@@ -1,10 +1,17 @@
     - name: Alexander G. Maier
       affiliation: Australian National University (ANU)
       href: https://biology.anu.edu.au/people/alexander-maier
-      thumbnail: https://biology.anu.edu.au/sites/prod.biology.sca-lws06.anu.edu.au/files/styles/portrait_250_250/public/Alex_Maier_2026.jpg.webp?h=2c4089a3&itok=aanf6Ojk
+      thumbnail: img/Alex_Maier_2026.jpg.webp
       country: au
       social: 
       - website: https://biology.anu.edu.au/people/alexander-maier
+    - name: Alice Hughes
+      affiliation: Melbourne University
+      href: https://findanexpert.unimelb.edu.au/profile/1118519-alice-hughes
+      thumbnail: img/alice.jpg
+      country: au
+      social: 
+      - website: https://findanexpert.unimelb.edu.au/profile/1118519-alice-hughes
     - name: Alona Cuevas Linatoc
       affiliation: University of the Philippines Los Baños (UPLB)
       href: https://cfnr.uplb.edu.ph/fbs/
@@ -41,6 +48,13 @@
       country: id
       social: 
       - website: https://wri-indonesia.org/id/profile/citra-septiani
+    - name: Herman Spaink
+      affiliation: Leiden University
+      href: https://www.universiteitleiden.nl/en/staffmembers/herman-spaink#tab-1
+      thumbnail: img/herman.jpg
+      country: nl
+      social: 
+      - website: https://www.universiteitleiden.nl/en/staffmembers/herman-spaink#tab-1
     - name: Noor Janatun Naim Jemali
       affiliation: Universiti Malaysia Kelantan (UMK)
       href: https://expert.umk.edu.my/directory.cfm?group=F6020100
