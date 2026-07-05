@@ -189,7 +189,7 @@ Prior to the start of the course, participants are assigned several tasks:
 
 | Time | Session / Activity | Speaker / Instructor | Location | Activity Type |
 |---|---|---|---|---|
-| **08.00 - 08.45** | From Data to Decisions | Dr. Muhammad Ali Imron - WWF Indonesia |  | Lectures |
+| **08.00 - 08.45** | From Data to Decisions | Fenky Wirada - WWF Indonesia |  | Lectures |
 | **08.50 - 09.35** | Science Communication | Cania Citta - Malaka |  | Discussion |
 | **09.40 - 10.25** | Conservation Best Practice | Amelia Nugrahaningrum - Genau Foundation |  | Presentation |
 | **10.30 - 11.15** | WRI Project Session | Citra Septiani - World Resources Institute |  | Presentation |

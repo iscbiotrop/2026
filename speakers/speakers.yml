@@ -92,13 +92,13 @@
       country: id
       social: 
       - website: https://acadstaff.ugm.ac.id/Jamal
-    - name: Mohammad Ali Imron
+    - name: Fenky Wirada
       affiliation: WWF-Indonesia
-      href: https://wwf.id/id/about-us/our-leadership
-      thumbnail: img/ali_imron.jpg
+      href: https://www.linkedin.com/in/fenky-wirada-6417232ab/
+      thumbnail: img/fenky.jpeg
       country: id
       social: 
-      - website: https://wwf.id/id/about-us/our-leadership
+      - website: https://wwf.id/en
     - name: Pramaditya Wicaksono
       affiliation: Universitas Gadjah Mada (UGM)
       href: https://acadstaff.ugm.ac.id/Prama
