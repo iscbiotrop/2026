@@ -91,7 +91,7 @@ graph LR
 | <small>~~International and ASEAN Students (Late Registration)~~</small> | <small>~~**8 June 2026**~~</small> | <small>_Registration will be closed when the quota is reached_</small> |
 | <small>~~Local Students~~</small>| <small>~~**8 June 2026**~~</small> |  |
 | <small>~~Online Participants~~</small>| <small>~~**15 June 2026**~~</small> |  |
-| <small>Online Participants (Late Registration)</small>| <small>**4 July 2026**</small> |  |
+| <small>~~Online Participants (Late Registration)~~</small>| <small>~~**4 July 2026**~~</small> |  |
 | <small>Biodiversity Summit</small>| <small>**11 July 2026**</small> | <small>_Registration will be closed when the quota is reached_</small> |
 : {.striped .hover}
 :::
